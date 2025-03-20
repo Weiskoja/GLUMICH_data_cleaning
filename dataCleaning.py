@@ -2,14 +2,20 @@ import pandas as pd
 import pathlib
 
 #directory stuff to make organization easier
+
 workingDirectory = pathlib.Path.cwd()
-dataDirectory = f'{workingDirectory}/data/'
+
+parentDir = workingDirectory.parent
+
+print(workingDirectory, parentDir)
+
+dataDirectory = f'{parentDir}/data/'
 
 file = pd.ExcelFile(f"{dataDirectory}GLWL_wAlgae_oneRowHeader_working_17Oct2022.xlsx")
 
-dataWriteDir_InProcess= f'{dataDirectory}/data-wrangling/working'
+dataWriteDir_InProcess= f'{workingDirectory}/data-wrangling/working'
 
-dataWriteDir_Wrangled= f'{dataDirectory}/data-wrangling/done'
+dataWriteDir_Wrangled= f'{workingDirectory}/data-wrangling/done'
 
 progress_path = pathlib.Path(dataWriteDir_InProcess).mkdir(parents=True, exist_ok=True)
 finish_path = pathlib.Path(dataWriteDir_Wrangled).mkdir(parents=True, exist_ok=True)
@@ -38,13 +44,12 @@ def cleanAnimals(dataDirectory, fileName):
     """TODO: write to import frame for each, and then add to 'master' frame once done"""
     frame = pd.read_csv(f'{dataDirectory}/{fileName}.csv')
     frame['Category'] = fileName.lower()
-    frame['']
-    print(frame.head())
+    #print(frame.head())
 
 
 def main():
     frames = glumichDataPrecleanRead(file, dataWriteDir_InProcess)
-    print(frames.keys())
+    #print(frames.keys())
     #for animal in frames.keys():
         #cleanAnimals(dataWriteDir_InProcess, animal)
 
