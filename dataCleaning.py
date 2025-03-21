@@ -7,8 +7,9 @@ workingDirectory = pathlib.Path.cwd()
 
 parentDir = workingDirectory.parent
 
-print(workingDirectory, parentDir)
-
+# print(workingDirectory, parentDir)
+print("Working Directory: ", workingDirectory)
+print("Parent Directory: ", parentDir)
 dataDirectory = f'{parentDir}/data/'
 
 file = pd.ExcelFile(f"{dataDirectory}GLWL_wAlgae_oneRowHeader_working_17Oct2022.xlsx")
