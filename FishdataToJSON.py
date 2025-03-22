@@ -141,6 +141,13 @@ def process_all_files(category):
             if process_indicator_field(new_dict, cleanKey, cleanValue, domain, 'domain'):
                 added = True
 
+            for i in ["lakes", "rivers", "domain"]:
+                try:
+                    test = new_dict[i]
+                except KeyError:
+                    new_dict[i] = []
+
+
             if added == False:
                 if cleanValue == "X" or cleanValue == 1:
                     new_dict[cleanKey] = True

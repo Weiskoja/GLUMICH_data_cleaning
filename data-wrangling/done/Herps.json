@@ -1,6 +1,21 @@
 [
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Anaxyrus americanus americanus",
         "RecNum": "1",
         "Phylum": "Chordata",
@@ -32,23 +47,8 @@
         "COL_Accepted_Name": "Anaxyrus americanus americanus: (Holbrook, 1836)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/0663bffea8833a92c7a8fadbbe49c132",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Bufo americanus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -59,6 +59,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Anaxyrus americanus americanus",
         "RecNum": "1",
         "Phylum": "Chordata",
@@ -90,23 +105,8 @@
         "COL_Accepted_Name": "Anaxyrus americanus americanus: (Holbrook, 1836)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/0663bffea8833a92c7a8fadbbe49c132",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Bufo americanus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -117,6 +117,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Anaxyrus fowleri",
         "RecNum": "2",
         "Phylum": "Chordata",
@@ -146,19 +158,8 @@
         "COL_Accepted_Name": "Anaxyrus fowleri: (Hinckley, 1882)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7754b6a185a8b88d98298c39414e9a63",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004; Huron: Timmermans & Craigie 2002; Ontario: Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Bufo fowleri&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -169,6 +170,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Anaxyrus fowleri",
         "RecNum": "2",
         "Phylum": "Chordata",
@@ -198,19 +211,8 @@
         "COL_Accepted_Name": "Anaxyrus fowleri: (Hinckley, 1882)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7754b6a185a8b88d98298c39414e9a63",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004; Huron: Timmermans & Craigie 2002; Ontario: Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Bufo fowleri&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -221,6 +223,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Anaxyrus woodhousii",
         "RecNum": "3",
         "Phylum": "Chordata",
@@ -249,15 +258,9 @@
         "COL_Accepted_Name": "Anaxyrus woodhousii: (Girard, 1854)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/3bfbf28cb7f58d780b9ae642f4f15be8",
         "Ref_GL_occurrence": "King 1988",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "King 1988",
         "Notes": null,
         "Lakes_Proper": true,
-        "domain": [
-            "Aerial/ Terrestrial"
-        ],
         "BOLD_link": "BOLD has genus, but not this species (checked Aug 2022)",
         "NatHistory_source": "Nature Serve",
         "NatHistory_link": "http://explorer.natureserve.org/servlet/NatureServe?searchSciOrCommonName=Anaxyrus+woodhousii",
@@ -267,6 +270,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Anaxyrus woodhousii",
         "RecNum": "3",
         "Phylum": "Chordata",
@@ -295,15 +305,9 @@
         "COL_Accepted_Name": "Anaxyrus woodhousii: (Girard, 1854)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/3bfbf28cb7f58d780b9ae642f4f15be8",
         "Ref_GL_occurrence": "King 1988",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "King 1988",
         "Notes": null,
         "Lakes_Proper": true,
-        "domain": [
-            "Aerial/ Terrestrial"
-        ],
         "BOLD_link": "BOLD has genus, but not this species (checked Aug 2022)",
         "NatHistory_source": "Nature Serve",
         "NatHistory_link": "http://explorer.natureserve.org/servlet/NatureServe?searchSciOrCommonName=Anaxyrus+woodhousii",
@@ -313,6 +317,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Acris blanchardi",
         "RecNum": "4",
         "Phylum": "Chordata",
@@ -340,20 +356,8 @@
         "COL_Accepted_Name": "Acris blanchardi: Harper, 1947",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d69b50f2f6b5975e567068330b2a25ac",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Acris+blanchardi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -364,6 +368,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Acris blanchardi",
         "RecNum": "4",
         "Phylum": "Chordata",
@@ -391,20 +407,8 @@
         "COL_Accepted_Name": "Acris blanchardi: Harper, 1947",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d69b50f2f6b5975e567068330b2a25ac",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Acris+blanchardi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -415,6 +419,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Hyla chrysoscelis",
         "RecNum": "5",
         "Phylum": "Chordata",
@@ -444,23 +463,8 @@
         "COL_Accepted_Name": "Hyla chrysoscelis: Cope, 1880",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/368154fda427cb1b5852d362528ad715",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; Huron/Ontario: Timmermans & Craigie 2002; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hyla+chrysoscelis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -471,6 +475,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Hyla chrysoscelis",
         "RecNum": "5",
         "Phylum": "Chordata",
@@ -500,23 +519,8 @@
         "COL_Accepted_Name": "Hyla chrysoscelis: Cope, 1880",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/368154fda427cb1b5852d362528ad715",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; Huron/Ontario: Timmermans & Craigie 2002; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hyla+chrysoscelis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -527,6 +531,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Hyla versicolor",
         "RecNum": "6",
         "Phylum": "Chordata",
@@ -555,23 +574,8 @@
         "COL_Accepted_Name": "Hyla versicolor: LeConte, 1825",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ab8a464cfe875325eb1dd7fab87aab2b",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hyla+versicolor&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -582,6 +586,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Hyla versicolor",
         "RecNum": "6",
         "Phylum": "Chordata",
@@ -610,23 +629,8 @@
         "COL_Accepted_Name": "Hyla versicolor: LeConte, 1825",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ab8a464cfe875325eb1dd7fab87aab2b",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hyla+versicolor&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -637,6 +641,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudacris crucifer",
         "RecNum": "7",
         "Phylum": "Chordata",
@@ -671,23 +690,8 @@
         "COL_Accepted_Name": "Pseudacris crucifer: (Wied-Neuwied, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/13c3d83f42e0099eee16f9878deda5f2",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudacris+crucifer&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -698,6 +702,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudacris crucifer",
         "RecNum": "7",
         "Phylum": "Chordata",
@@ -732,23 +751,8 @@
         "COL_Accepted_Name": "Pseudacris crucifer: (Wied-Neuwied, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/13c3d83f42e0099eee16f9878deda5f2",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudacris+crucifer&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -759,6 +763,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudacris maculata",
         "RecNum": "8",
         "Phylum": "Chordata",
@@ -790,16 +803,8 @@
         "COL_Accepted_Name": "Pseudacris maculata: (Agassiz, 1850)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/672586a1ec9724fc3aed25eaccbb3b8b",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Superior"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudacris+maculata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -810,6 +815,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudacris maculata",
         "RecNum": "8",
         "Phylum": "Chordata",
@@ -841,16 +855,8 @@
         "COL_Accepted_Name": "Pseudacris maculata: (Agassiz, 1850)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/672586a1ec9724fc3aed25eaccbb3b8b",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Superior"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudacris+maculata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -861,6 +867,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudacris triseriata",
         "RecNum": "9",
         "Phylum": "Chordata",
@@ -890,23 +911,8 @@
         "COL_Accepted_Name": "Pseudacris triseriata:(Wied-Neuwied, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/f700e0f6d411469178a86b152d5326fb",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudacris+triseriata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -917,6 +923,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudacris triseriata",
         "RecNum": "9",
         "Phylum": "Chordata",
@@ -946,23 +967,8 @@
         "COL_Accepted_Name": "Pseudacris triseriata:(Wied-Neuwied, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/f700e0f6d411469178a86b152d5326fb",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudacris+triseriata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -973,6 +979,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates blairi",
         "RecNum": "10",
         "Phylum": "Chordata",
@@ -1000,16 +1015,8 @@
         "COL_Accepted_Name": "Lithobates blairi: (Mecham, Littlejohn, Oldham, Brown and Brown, 1973)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/83b1400766386bba560227e936b6c4f2",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana blairi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1020,6 +1027,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates blairi",
         "RecNum": "10",
         "Phylum": "Chordata",
@@ -1047,16 +1063,8 @@
         "COL_Accepted_Name": "Lithobates blairi: (Mecham, Littlejohn, Oldham, Brown and Brown, 1973)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/83b1400766386bba560227e936b6c4f2",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana blairi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1067,6 +1075,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Lithobates catesbeianus",
         "RecNum": "11",
         "Phylum": "Chordata",
@@ -1094,22 +1116,8 @@
         "COL_Accepted_Name": "Lithobates catesbeianus: (Shaw, 1802)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/058f22d37e87f06e969f1edcb492f418",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lithobates+catesbeianus&searchTax=Search+Taxonomy",
         "NatHistory_source": "NAS",
@@ -1120,6 +1128,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Lithobates catesbeianus",
         "RecNum": "11",
         "Phylum": "Chordata",
@@ -1147,22 +1169,8 @@
         "COL_Accepted_Name": "Lithobates catesbeianus: (Shaw, 1802)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/058f22d37e87f06e969f1edcb492f418",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lithobates+catesbeianus&searchTax=Search+Taxonomy",
         "NatHistory_source": "NAS",
@@ -1173,6 +1181,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Lithobates clamitans melanota",
         "RecNum": "12",
         "Phylum": "Chordata",
@@ -1201,22 +1223,8 @@
         "COL_Accepted_Name": "Lithobates clamitans melanota: (Rafinesque, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/92390c6771359817c1d70c13096e7e97",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=8697",
         "NatHistory_source": "Nature Serve",
@@ -1227,6 +1235,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Lithobates clamitans melanota",
         "RecNum": "12",
         "Phylum": "Chordata",
@@ -1255,22 +1277,8 @@
         "COL_Accepted_Name": "Lithobates clamitans melanota: (Rafinesque, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/92390c6771359817c1d70c13096e7e97",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=8697",
         "NatHistory_source": "Nature Serve",
@@ -1281,6 +1289,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates palustris",
         "RecNum": "13",
         "Phylum": "Chordata",
@@ -1310,23 +1333,8 @@
         "COL_Accepted_Name": "Lithobates palustris: (LeConte, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/a0f88b37188dc57cb620e72adb3e448c",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana palustris&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1337,6 +1345,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates palustris",
         "RecNum": "13",
         "Phylum": "Chordata",
@@ -1366,23 +1389,8 @@
         "COL_Accepted_Name": "Lithobates palustris: (LeConte, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/a0f88b37188dc57cb620e72adb3e448c",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana palustris&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1393,6 +1401,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates pipiens",
         "RecNum": "14",
         "Phylum": "Chordata",
@@ -1420,23 +1443,8 @@
         "COL_Accepted_Name": "Lithobates pipiens: (Schreber, 1782)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/166cf1596c9ed2a0fb45128f89130c15",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana pipiens&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1447,6 +1455,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates pipiens",
         "RecNum": "14",
         "Phylum": "Chordata",
@@ -1474,23 +1497,8 @@
         "COL_Accepted_Name": "Lithobates pipiens: (Schreber, 1782)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/166cf1596c9ed2a0fb45128f89130c15",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana pipiens&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1501,6 +1509,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Lithobates septentrionalis",
         "RecNum": "15",
         "Phylum": "Chordata",
@@ -1528,19 +1548,8 @@
         "COL_Accepted_Name": "Lithobates septentrionalis: (Baird, 1854)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/1b5f66808ab13c7afe6be02022613e9c",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
         "Ref_location": "Hecnar 2004; Erie: Timmermans & Craigie 2002",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana septentrionalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1551,6 +1560,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Lithobates septentrionalis",
         "RecNum": "15",
         "Phylum": "Chordata",
@@ -1578,19 +1599,8 @@
         "COL_Accepted_Name": "Lithobates septentrionalis: (Baird, 1854)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/1b5f66808ab13c7afe6be02022613e9c",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
         "Ref_location": "Hecnar 2004; Erie: Timmermans & Craigie 2002",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rana septentrionalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1601,6 +1611,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates sylvaticus",
         "RecNum": "16",
         "Phylum": "Chordata",
@@ -1634,23 +1659,8 @@
         "COL_Accepted_Name": "Lithobates sylvaticus: (LeConte, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/becede7cbd4aee03abbaa7fa733c9aee",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lithobates+sylvaticus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1661,6 +1671,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lithobates sylvaticus",
         "RecNum": "16",
         "Phylum": "Chordata",
@@ -1694,23 +1719,8 @@
         "COL_Accepted_Name": "Lithobates sylvaticus: (LeConte, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/becede7cbd4aee03abbaa7fa733c9aee",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lithobates+sylvaticus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1721,6 +1731,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma jeffersonianum",
         "RecNum": "17",
         "Phylum": "Chordata",
@@ -1748,17 +1768,8 @@
         "COL_Accepted_Name": "Ambystoma jeffersonianum: (Green, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/20340a2d951dad85a7e209c87649968e",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+jeffersonianum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1769,6 +1780,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma jeffersonianum",
         "RecNum": "17",
         "Phylum": "Chordata",
@@ -1796,17 +1817,8 @@
         "COL_Accepted_Name": "Ambystoma jeffersonianum: (Green, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/20340a2d951dad85a7e209c87649968e",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+jeffersonianum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1817,6 +1829,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma laterale",
         "RecNum": "18",
         "Phylum": "Chordata",
@@ -1846,23 +1873,8 @@
         "COL_Accepted_Name": "Ambystoma laterale: Hallowell, 1856",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e405f3bb66ba4022b1249c36c5e37d05",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+laterale&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1873,6 +1885,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma laterale",
         "RecNum": "18",
         "Phylum": "Chordata",
@@ -1902,23 +1929,8 @@
         "COL_Accepted_Name": "Ambystoma laterale: Hallowell, 1856",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e405f3bb66ba4022b1249c36c5e37d05",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+laterale&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1929,6 +1941,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma maculatum",
         "RecNum": "19",
         "Phylum": "Chordata",
@@ -1957,23 +1984,8 @@
         "COL_Accepted_Name": "Ambystoma maculatum: (Shaw, 1802)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b23fb78f242a76a272f118eec3e3c33a",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+maculatum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -1984,6 +1996,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma maculatum",
         "RecNum": "19",
         "Phylum": "Chordata",
@@ -2012,23 +2039,8 @@
         "COL_Accepted_Name": "Ambystoma maculatum: (Shaw, 1802)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b23fb78f242a76a272f118eec3e3c33a",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+maculatum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2039,6 +2051,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma opacum",
         "RecNum": "20",
         "Phylum": "Chordata",
@@ -2065,17 +2087,8 @@
         "COL_Accepted_Name": "Ambystoma opacum: (Gravenhorst, 1807)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/3a0a96258e862ff28ecf1cd1a9016f20",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+opacum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2086,6 +2099,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma opacum",
         "RecNum": "20",
         "Phylum": "Chordata",
@@ -2112,17 +2135,8 @@
         "COL_Accepted_Name": "Ambystoma opacum: (Gravenhorst, 1807)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/3a0a96258e862ff28ecf1cd1a9016f20",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+opacum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2133,6 +2147,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma texanum",
         "RecNum": "21",
         "Phylum": "Chordata",
@@ -2160,16 +2183,8 @@
         "COL_Accepted_Name": "Ambystoma texanum: (Matthes, 1855)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/f95666c5b9ee3abf057acf0bc993d48f",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+texanum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2180,6 +2195,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma texanum",
         "RecNum": "21",
         "Phylum": "Chordata",
@@ -2207,16 +2231,8 @@
         "COL_Accepted_Name": "Ambystoma texanum: (Matthes, 1855)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/f95666c5b9ee3abf057acf0bc993d48f",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+texanum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2227,6 +2243,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma tigrinum",
         "RecNum": "22",
         "Phylum": "Chordata",
@@ -2254,21 +2283,8 @@
         "COL_Accepted_Name": "Ambystoma tigrinum: (Green, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d1942621fb78d1eb37c5f791f0633559",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+tigrinum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2279,6 +2295,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ambystoma tigrinum",
         "RecNum": "22",
         "Phylum": "Chordata",
@@ -2306,21 +2335,8 @@
         "COL_Accepted_Name": "Ambystoma tigrinum: (Green, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d1942621fb78d1eb37c5f791f0633559",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambystoma+tigrinum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2331,6 +2347,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Cryptobranchus alleganiensis",
         "RecNum": "23",
         "Phylum": "Chordata",
@@ -2357,15 +2381,8 @@
         "COL_Accepted_Name": "Cryptobranchus alleganiensis: (Daudin, 1803)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/0b437ecc1a60d46a1627791f64c9b9db",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cryptobranchus+alleganiensis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2376,6 +2393,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Cryptobranchus alleganiensis",
         "RecNum": "23",
         "Phylum": "Chordata",
@@ -2402,15 +2427,8 @@
         "COL_Accepted_Name": "Cryptobranchus alleganiensis: (Daudin, 1803)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/0b437ecc1a60d46a1627791f64c9b9db",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cryptobranchus+alleganiensis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2421,6 +2439,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [
+            "Niagara River"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Desmognathus fuscus",
         "RecNum": "24",
         "Phylum": "Chordata",
@@ -2451,20 +2481,8 @@
         "COL_Accepted_Name": "Desmognathus fuscus: (Rafinesque, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4584613ea230f2ad40e70189a3967c11",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
-        "rivers": [
-            "Niagara River"
-        ],
         "Ref_location": "Hecnar 2004; Niagara River: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Desmognathus+fuscus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2475,6 +2493,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [
+            "Niagara River"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Desmognathus fuscus",
         "RecNum": "24",
         "Phylum": "Chordata",
@@ -2505,20 +2535,8 @@
         "COL_Accepted_Name": "Desmognathus fuscus: (Rafinesque, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4584613ea230f2ad40e70189a3967c11",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
-        "rivers": [
-            "Niagara River"
-        ],
         "Ref_location": "Hecnar 2004; Niagara River: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Desmognathus+fuscus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2529,6 +2547,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [
+            "Niagara River"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Desmognathus ochrophaeus",
         "RecNum": "25",
         "Phylum": "Chordata",
@@ -2555,20 +2585,8 @@
         "COL_Accepted_Name": "Desmognathus ochrophaeus: Cope, 1859",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e19430ad319dfc1921034defb0b54922",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
-        "rivers": [
-            "Niagara River"
-        ],
         "Ref_location": "Hecnar 2004; Niagara River: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Desmognathus+ochrophaeus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2579,6 +2597,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [
+            "Niagara River"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Desmognathus ochrophaeus",
         "RecNum": "25",
         "Phylum": "Chordata",
@@ -2605,20 +2635,8 @@
         "COL_Accepted_Name": "Desmognathus ochrophaeus: Cope, 1859",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e19430ad319dfc1921034defb0b54922",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
-        "rivers": [
-            "Niagara River"
-        ],
         "Ref_location": "Hecnar 2004; Niagara River: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Desmognathus+ochrophaeus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2629,6 +2647,17 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Eurycea bislineata",
         "RecNum": "26",
         "Phylum": "Chordata",
@@ -2659,18 +2688,8 @@
         "COL_Accepted_Name": "Eurycea bislineata: (Green, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e30379dbad254c500587c5b0aad6f792",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Eurycea+bislineata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2681,6 +2700,17 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Eurycea bislineata",
         "RecNum": "26",
         "Phylum": "Chordata",
@@ -2711,18 +2741,8 @@
         "COL_Accepted_Name": "Eurycea bislineata: (Green, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e30379dbad254c500587c5b0aad6f792",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Eurycea+bislineata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2733,6 +2753,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Eurycea longicauda",
         "RecNum": "27",
         "Phylum": "Chordata",
@@ -2761,11 +2788,6 @@
         "Ref_GL_occurrence": "Hecnar 2004",
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Eurycea+longicauda&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2776,6 +2798,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Eurycea longicauda",
         "RecNum": "27",
         "Phylum": "Chordata",
@@ -2804,11 +2833,6 @@
         "Ref_GL_occurrence": "Hecnar 2004",
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Eurycea+longicauda&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2819,6 +2843,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Gyrinophilus porphyriticus porphyriticus",
         "RecNum": "28",
         "Phylum": "Chordata",
@@ -2845,17 +2879,8 @@
         "COL_Accepted_Name": "Gyrinophilus porphyriticus porphyriticus: (Green, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/2313080e9a03e839c693344a295b019f",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=27355",
         "NatHistory_source": "Nature Serve",
@@ -2866,6 +2891,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Gyrinophilus porphyriticus porphyriticus",
         "RecNum": "28",
         "Phylum": "Chordata",
@@ -2892,17 +2927,8 @@
         "COL_Accepted_Name": "Gyrinophilus porphyriticus porphyriticus: (Green, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/2313080e9a03e839c693344a295b019f",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=27355",
         "NatHistory_source": "Nature Serve",
@@ -2913,6 +2939,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Hemidactylium scutatum",
         "RecNum": "29",
         "Phylum": "Chordata",
@@ -2936,23 +2977,8 @@
         "COL_Accepted_Name": "Hemidactylium scutatum: (Temminck and Schlegel, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/8b351c2276b282578a07b4098e17e34c",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hemidactylium+scutatum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -2963,6 +2989,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Hemidactylium scutatum",
         "RecNum": "29",
         "Phylum": "Chordata",
@@ -2986,23 +3027,8 @@
         "COL_Accepted_Name": "Hemidactylium scutatum: (Temminck and Schlegel, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/8b351c2276b282578a07b4098e17e34c",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hemidactylium+scutatum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3013,6 +3039,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plethodon cinereus",
         "RecNum": "30",
         "Phylum": "Chordata",
@@ -3040,23 +3081,8 @@
         "COL_Accepted_Name": "Plethodon cinereus: (Green, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/a2743c12f96b3492a8352ada6b54703d",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plethodon+cinereus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3067,6 +3093,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plethodon cinereus",
         "RecNum": "30",
         "Phylum": "Chordata",
@@ -3094,23 +3135,8 @@
         "COL_Accepted_Name": "Plethodon cinereus: (Green, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/a2743c12f96b3492a8352ada6b54703d",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plethodon+cinereus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3121,6 +3147,17 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plethodon glutinosus",
         "RecNum": "31",
         "Phylum": "Chordata",
@@ -3147,18 +3184,8 @@
         "COL_Accepted_Name": "Plethodon glutinosus: (Green, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/125a235b127a60de25b5e1e988516b23",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004; Michigan: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plethodon+glutinosus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3169,6 +3196,17 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plethodon glutinosus",
         "RecNum": "31",
         "Phylum": "Chordata",
@@ -3195,18 +3233,8 @@
         "COL_Accepted_Name": "Plethodon glutinosus: (Green, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/125a235b127a60de25b5e1e988516b23",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Michigan",
-            "Ontario"
-        ],
         "Ref_location": "Hecnar 2004; Michigan: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plethodon+glutinosus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3217,6 +3245,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plethodon richmondi",
         "RecNum": "32",
         "Phylum": "Chordata",
@@ -3240,16 +3277,8 @@
         "COL_Accepted_Name": "Plethodon richmondi: Netting and Mittleman, 1938",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/be004a87945697b292b6dc8ded324666",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plethodon+richmondi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3260,6 +3289,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plethodon richmondi",
         "RecNum": "32",
         "Phylum": "Chordata",
@@ -3283,16 +3321,8 @@
         "COL_Accepted_Name": "Plethodon richmondi: Netting and Mittleman, 1938",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/be004a87945697b292b6dc8ded324666",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plethodon+richmondi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3303,6 +3333,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudotriton ruber",
         "RecNum": "33",
         "Phylum": "Chordata",
@@ -3329,16 +3368,8 @@
         "COL_Accepted_Name": "Pseudotriton ruber: (Sonnini de Manoncourt and Latreille, 1801)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/892eb65ef5fee45ae23317bfe0bd8f6e",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudotriton+ruber&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3349,6 +3380,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pseudotriton ruber",
         "RecNum": "33",
         "Phylum": "Chordata",
@@ -3375,16 +3415,8 @@
         "COL_Accepted_Name": "Pseudotriton ruber: (Sonnini de Manoncourt and Latreille, 1801)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/892eb65ef5fee45ae23317bfe0bd8f6e",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pseudotriton+ruber&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3395,6 +3427,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Necturus maculosus",
         "RecNum": "34",
         "Phylum": "Chordata",
@@ -3424,22 +3470,8 @@
         "COL_Accepted_Name": "Necturus maculosus: (Rafinesque, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/0d2149221aa6f08c190d72ec4886ebe3",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Necturus+maculosus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3450,6 +3482,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Necturus maculosus",
         "RecNum": "34",
         "Phylum": "Chordata",
@@ -3479,22 +3525,8 @@
         "COL_Accepted_Name": "Necturus maculosus: (Rafinesque, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/0d2149221aa6f08c190d72ec4886ebe3",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Necturus+maculosus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3505,6 +3537,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Notophthalmus viridescens",
         "RecNum": "35",
         "Phylum": "Chordata",
@@ -3532,23 +3579,8 @@
         "COL_Accepted_Name": "Notophthalmus viridescens: (Rafinesque, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7ae8731b79f69dd359e43bca9f6442f0",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notophthalmus+viridescens&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3559,6 +3591,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Notophthalmus viridescens",
         "RecNum": "35",
         "Phylum": "Chordata",
@@ -3586,23 +3633,8 @@
         "COL_Accepted_Name": "Notophthalmus viridescens: (Rafinesque, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7ae8731b79f69dd359e43bca9f6442f0",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Hecnar 2004; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notophthalmus+viridescens&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3613,6 +3645,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Siren intermedia",
         "RecNum": "36",
         "Phylum": "Chordata",
@@ -3640,15 +3680,8 @@
         "COL_Accepted_Name": "Siren intermedia: Barnes, 1826",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/53e77d3a8c927795cabd14e40851e2e2",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Siren+intermedia&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3659,6 +3692,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Siren intermedia",
         "RecNum": "36",
         "Phylum": "Chordata",
@@ -3686,15 +3727,8 @@
         "COL_Accepted_Name": "Siren intermedia: Barnes, 1826",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/53e77d3a8c927795cabd14e40851e2e2",
         "Ref_GL_occurrence": "Hecnar 2004",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Hecnar 2004",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Siren+intermedia&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3705,6 +3739,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ophisaurus attenuatus",
         "RecNum": "37",
         "Phylum": "Chordata",
@@ -3733,16 +3776,8 @@
         "COL_Accepted_Name": "Ophisaurus attenuatus: Baird, 1880",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ec6e3a18e4b01b00c8cce987e674ac2a",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ophisaurus+attenuatus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3753,6 +3788,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Ophisaurus attenuatus",
         "RecNum": "37",
         "Phylum": "Chordata",
@@ -3781,16 +3825,8 @@
         "COL_Accepted_Name": "Ophisaurus attenuatus: Baird, 1880",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ec6e3a18e4b01b00c8cce987e674ac2a",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ophisaurus+attenuatus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -3801,6 +3837,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Coluber constrictor",
         "RecNum": "38",
         "Phylum": "Chordata",
@@ -3832,21 +3881,8 @@
         "COL_Accepted_Name": "Coluber constrictor: Linnaeus, 1758",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7e54519ef916de64c8b36a23a54c2aed",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=24591",
         "NatHistory_source": "Nature Serve",
@@ -3857,6 +3893,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Coluber constrictor",
         "RecNum": "38",
         "Phylum": "Chordata",
@@ -3888,21 +3937,8 @@
         "COL_Accepted_Name": "Coluber constrictor: Linnaeus, 1758",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7e54519ef916de64c8b36a23a54c2aed",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=24591",
         "NatHistory_source": "Nature Serve",
@@ -3913,6 +3949,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Coluber constrictor foxii",
         "RecNum": "39",
         "Phylum": "Chordata",
@@ -3936,17 +3982,8 @@
         "COL_Accepted_Name": "Coluber constrictor foxii: (Baird & Girard, 1853)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ab45a9aefc0b74a529ebfb880b1a960c",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "BOLD has species, but not this subspecies (checked Aug 2022)",
         "NatHistory_source": "Nature Serve",
@@ -3957,6 +3994,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Coluber constrictor foxii",
         "RecNum": "39",
         "Phylum": "Chordata",
@@ -3980,17 +4027,8 @@
         "COL_Accepted_Name": "Coluber constrictor foxii: (Baird & Girard, 1853)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ab45a9aefc0b74a529ebfb880b1a960c",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "BOLD has species, but not this subspecies (checked Aug 2022)",
         "NatHistory_source": "Nature Serve",
@@ -4001,6 +4039,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Diadophispunctatus edwardsii",
         "RecNum": "40",
         "Phylum": "Chordata",
@@ -4027,23 +4080,8 @@
         "COL_Accepted_Name": "Diadophis punctatus edwardsii: (Merrem, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/28ca12f7f5ca94563edd3863c4a071c5",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron: Mifsud 2014; Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=142725",
         "NatHistory_source": "Nature Serve",
@@ -4054,6 +4092,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Diadophispunctatus edwardsii",
         "RecNum": "40",
         "Phylum": "Chordata",
@@ -4080,23 +4133,8 @@
         "COL_Accepted_Name": "Diadophis punctatus edwardsii: (Merrem, 1820)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/28ca12f7f5ca94563edd3863c4a071c5",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron: Mifsud 2014; Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=142725",
         "NatHistory_source": "Nature Serve",
@@ -4107,6 +4145,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pantherophis vulpinus",
         "RecNum": "41",
         "Phylum": "Chordata",
@@ -4142,23 +4195,8 @@
         "COL_Accepted_Name": "Pantherophis vulpinus: (Baird & Girard, 1853)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/bf7e19c4e59e14a524444c24e9f42670",
         "Ref_GL_occurrence": "Harding 1997",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997; Lake Michigan/Lake Superior: Herdendorf 1992",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pantherophis+vulpinus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4169,6 +4207,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pantherophis vulpinus",
         "RecNum": "41",
         "Phylum": "Chordata",
@@ -4204,23 +4257,8 @@
         "COL_Accepted_Name": "Pantherophis vulpinus: (Baird & Girard, 1853)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/bf7e19c4e59e14a524444c24e9f42670",
         "Ref_GL_occurrence": "Harding 1997",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997; Lake Michigan/Lake Superior: Herdendorf 1992",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pantherophis+vulpinus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4231,6 +4269,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Opheodrys vernalis",
         "RecNum": "42",
         "Phylum": "Chordata",
@@ -4268,23 +4321,8 @@
         "COL_Accepted_Name": "Opheodrys vernalis: (Harlan, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ccd37d848b847b083b6a3b37751a2d48",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron/Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Opheodrys+vernalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4295,6 +4333,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Opheodrys vernalis",
         "RecNum": "42",
         "Phylum": "Chordata",
@@ -4332,23 +4385,8 @@
         "COL_Accepted_Name": "Opheodrys vernalis: (Harlan, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ccd37d848b847b083b6a3b37751a2d48",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron/Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Opheodrys+vernalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4359,6 +4397,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pantherophis obsoletus",
         "RecNum": "43",
         "Phylum": "Chordata",
@@ -4398,21 +4449,8 @@
         "COL_Accepted_Name": "Pantherophis obsoletus: (Say, 1823)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/04a34be88edcdefbb0d91e50fce20ba8",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; other lakes: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pantherophis+obsoletus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4423,6 +4461,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Pantherophis obsoletus",
         "RecNum": "43",
         "Phylum": "Chordata",
@@ -4462,21 +4513,8 @@
         "COL_Accepted_Name": "Pantherophis obsoletus: (Say, 1823)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/04a34be88edcdefbb0d91e50fce20ba8",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; other lakes: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pantherophis+obsoletus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4487,6 +4525,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Heterodon platirhinos",
         "RecNum": "44",
         "Phylum": "Chordata",
@@ -4523,23 +4576,8 @@
         "COL_Accepted_Name": "Heterodon platirhinos: Latreille, 1801",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d9994dae4656a7514a4c4ea4f44afb48",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron: Hecnar et al. 2002; other lakes: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Heterodon+platirhinos&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4550,6 +4588,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Heterodon platirhinos",
         "RecNum": "44",
         "Phylum": "Chordata",
@@ -4586,23 +4639,8 @@
         "COL_Accepted_Name": "Heterodon platirhinos: Latreille, 1801",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d9994dae4656a7514a4c4ea4f44afb48",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron: Hecnar et al. 2002; other lakes: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Heterodon+platirhinos&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4613,6 +4651,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Clonophis kirtlandii",
         "RecNum": "45",
         "Phylum": "Chordata",
@@ -4643,17 +4691,8 @@
         "COL_Accepted_Name": "Clonophis kirtlandii: (Kennicott, 1856)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ef568a07eecc7d4c39166e576f5716b3",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Clonophis+kirtlandii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4664,6 +4703,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Clonophis kirtlandii",
         "RecNum": "45",
         "Phylum": "Chordata",
@@ -4694,17 +4743,8 @@
         "COL_Accepted_Name": "Clonophis kirtlandii: (Kennicott, 1856)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ef568a07eecc7d4c39166e576f5716b3",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Clonophis+kirtlandii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4715,6 +4755,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Nerodiaerythrogasterneglecta",
         "RecNum": "46",
         "Phylum": "Chordata",
@@ -4743,11 +4790,6 @@
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
         "Ref_location": null,
         "Notes": "Listed in Harding 1997 but unclear if on coasts of Great Lakes or just state of Michigan",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=302246",
         "NatHistory_source": null,
@@ -4758,6 +4800,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Nerodiaerythrogasterneglecta",
         "RecNum": "46",
         "Phylum": "Chordata",
@@ -4786,11 +4835,6 @@
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
         "Ref_location": null,
         "Notes": "Listed in Harding 1997 but unclear if on coasts of Great Lakes or just state of Michigan",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=302246",
         "NatHistory_source": null,
@@ -4801,6 +4845,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Storeriaoccipitomaculata occipitomaculata",
         "RecNum": "47",
         "Phylum": "Chordata",
@@ -4827,23 +4886,8 @@
         "COL_Accepted_Name": "Storeria occipitomaculata occipitomaculata: (Storer, 1839)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/25e955d03928f0a0a83cd2bd2f60e74a",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron: Mifsud 2014; Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=52828",
         "NatHistory_source": "Nature Serve",
@@ -4854,6 +4898,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Storeriaoccipitomaculata occipitomaculata",
         "RecNum": "47",
         "Phylum": "Chordata",
@@ -4880,23 +4939,8 @@
         "COL_Accepted_Name": "Storeria occipitomaculata occipitomaculata: (Storer, 1839)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/25e955d03928f0a0a83cd2bd2f60e74a",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: King 1988; Huron: Mifsud 2014; Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/TaxBrowser_TaxonPage?taxid=52828",
         "NatHistory_source": "Nature Serve",
@@ -4907,6 +4951,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis brachystoma",
         "RecNum": "48",
         "Phylum": "Chordata",
@@ -4933,16 +4986,8 @@
         "COL_Accepted_Name": "Thamnophis brachystoma: (Cope, 1892)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d88e36e9e52a50bdf8b15834710a29a1",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+brachystoma&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4953,6 +4998,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis brachystoma",
         "RecNum": "48",
         "Phylum": "Chordata",
@@ -4979,16 +5033,8 @@
         "COL_Accepted_Name": "Thamnophis brachystoma: (Cope, 1892)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/d88e36e9e52a50bdf8b15834710a29a1",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+brachystoma&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -4999,6 +5045,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plestiodon anthracinus anthracinus",
         "RecNum": "49",
         "Phylum": "Chordata",
@@ -5022,16 +5077,8 @@
         "COL_Accepted_Name": "Plestiodon anthracinus anthracinus: (Baird, 1849)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/2fff885f843dd70dd506f98141bfe07f",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plestiodon+anthracinus+&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5042,6 +5089,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plestiodon anthracinus anthracinus",
         "RecNum": "49",
         "Phylum": "Chordata",
@@ -5065,16 +5121,8 @@
         "COL_Accepted_Name": "Plestiodon anthracinus anthracinus: (Baird, 1849)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/2fff885f843dd70dd506f98141bfe07f",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plestiodon+anthracinus+&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5085,6 +5133,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plestiodon fasciatus",
         "RecNum": "50",
         "Phylum": "Chordata",
@@ -5112,23 +5175,8 @@
         "COL_Accepted_Name": "Plestiodon fasciatus: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7083c8e865d1e893839b07e3fa809dce",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plestiodon+fasciatus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5139,6 +5187,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plestiodon fasciatus",
         "RecNum": "50",
         "Phylum": "Chordata",
@@ -5166,23 +5229,8 @@
         "COL_Accepted_Name": "Plestiodon fasciatus: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7083c8e865d1e893839b07e3fa809dce",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plestiodon+fasciatus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5193,6 +5241,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plestiodon septentrionalis",
         "RecNum": "51",
         "Phylum": "Chordata",
@@ -5221,16 +5278,8 @@
         "COL_Accepted_Name": "Plestiodon septentrionalis: Baird, 1858",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b5054591caa868436f5e1804e6f03113",
         "Ref_GL_occurrence": "Harding 1997",
-        "lakes": [
-            "Superior"
-        ],
         "Ref_location": "Casper 2002",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plestiodon+septentrionalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5241,6 +5290,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Plestiodon septentrionalis",
         "RecNum": "51",
         "Phylum": "Chordata",
@@ -5269,16 +5327,8 @@
         "COL_Accepted_Name": "Plestiodon septentrionalis: Baird, 1858",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b5054591caa868436f5e1804e6f03113",
         "Ref_GL_occurrence": "Harding 1997",
-        "lakes": [
-            "Superior"
-        ],
         "Ref_location": "Casper 2002",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Plestiodon+septentrionalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5289,6 +5339,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Aspidoscelis sexlineata",
         "RecNum": "52",
         "Phylum": "Chordata",
@@ -5316,16 +5375,8 @@
         "COL_Accepted_Name": "Aspidoscelis sexlineata: (Linnaeus, 1766)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/fa6175fa167a386fc02a48105446e7b9",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Aspidoscelis+sexlineata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5336,6 +5387,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Aspidoscelis sexlineata",
         "RecNum": "52",
         "Phylum": "Chordata",
@@ -5363,16 +5423,8 @@
         "COL_Accepted_Name": "Aspidoscelis sexlineata: (Linnaeus, 1766)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/fa6175fa167a386fc02a48105446e7b9",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Aspidoscelis+sexlineata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5383,6 +5435,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Crotalus horridus",
         "RecNum": "53",
         "Phylum": "Chordata",
@@ -5411,16 +5471,9 @@
         "COL_Accepted_Name": "Crotalus horridus: Linnaeus, 1758",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e9f8350bf5f3e9c9dc286e5c54a9807d",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
         "Ref_location": "Erie: King 1988; Lake Ontario: Harding 1997",
         "Notes": null,
         "Lakes_Proper": true,
-        "domain": [
-            "Aerial/ Terrestrial"
-        ],
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Crotalus+horridus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
         "NatHistory_link": "http://explorer.natureserve.org/servlet/NatureServe?searchSciOrCommonName=Crotalus+horridus",
@@ -5430,6 +5483,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Crotalus horridus",
         "RecNum": "53",
         "Phylum": "Chordata",
@@ -5458,16 +5519,9 @@
         "COL_Accepted_Name": "Crotalus horridus: Linnaeus, 1758",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/e9f8350bf5f3e9c9dc286e5c54a9807d",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Ontario"
-        ],
         "Ref_location": "Erie: King 1988; Lake Ontario: Harding 1997",
         "Notes": null,
         "Lakes_Proper": true,
-        "domain": [
-            "Aerial/ Terrestrial"
-        ],
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Crotalus+horridus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
         "NatHistory_link": "http://explorer.natureserve.org/servlet/NatureServe?searchSciOrCommonName=Crotalus+horridus",
@@ -5477,6 +5531,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lampropeltis triangulum",
         "RecNum": "54",
         "Phylum": "Chordata",
@@ -5528,23 +5597,8 @@
         "COL_Accepted_Name": "Lampropeltis triangulum: (Lacpde, 1789)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9be614b11171c8a10df420e0d4cc1e0c",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Huron: Mifsud 2014; Ontario: Hecnar et al. 2002; Michigan/Superior/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lampropeltis+triangulum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5555,6 +5609,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Lampropeltis triangulum",
         "RecNum": "54",
         "Phylum": "Chordata",
@@ -5606,23 +5675,8 @@
         "COL_Accepted_Name": "Lampropeltis triangulum: (Lacpde, 1789)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9be614b11171c8a10df420e0d4cc1e0c",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Huron: Mifsud 2014; Ontario: Hecnar et al. 2002; Michigan/Superior/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lampropeltis+triangulum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5633,6 +5687,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Nerodia sipedon",
         "RecNum": "55",
         "Phylum": "Chordata",
@@ -5663,23 +5732,8 @@
         "COL_Accepted_Name": "Nerodia sipedon: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9964872e412dbfd2bd87cb438e668d62",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Nerodia+sipedon&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5690,6 +5744,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Nerodia sipedon",
         "RecNum": "55",
         "Phylum": "Chordata",
@@ -5720,23 +5789,8 @@
         "COL_Accepted_Name": "Nerodia sipedon: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9964872e412dbfd2bd87cb438e668d62",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Nerodia+sipedon&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5747,6 +5801,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Regina grahamii",
         "RecNum": "56",
         "Phylum": "Chordata",
@@ -5776,15 +5838,8 @@
         "COL_Accepted_Name": "Regina grahamii: Baird & Girard, 1853",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/bbc34e0bff2382d85e81d3275b447036",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Regina+grahamii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5795,6 +5850,14 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Regina grahamii",
         "RecNum": "56",
         "Phylum": "Chordata",
@@ -5824,15 +5887,8 @@
         "COL_Accepted_Name": "Regina grahamii: Baird & Girard, 1853",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/bbc34e0bff2382d85e81d3275b447036",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Regina+grahamii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5843,6 +5899,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Regina septemvittata",
         "RecNum": "57",
         "Phylum": "Chordata",
@@ -5873,22 +5943,8 @@
         "COL_Accepted_Name": "Regina septemvittata: (Say, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/95b94f2002c96c822a6a3e958c051237",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Huron: Burton & Uzarski 2009; other lakes: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Regina+septemvittata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5899,6 +5955,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Regina septemvittata",
         "RecNum": "57",
         "Phylum": "Chordata",
@@ -5929,22 +5999,8 @@
         "COL_Accepted_Name": "Regina septemvittata: (Say, 1825)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/95b94f2002c96c822a6a3e958c051237",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Huron: Burton & Uzarski 2009; other lakes: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Regina+septemvittata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -5955,6 +6011,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Storeria dekayi",
         "RecNum": "58",
         "Phylum": "Chordata",
@@ -5990,23 +6061,8 @@
         "COL_Accepted_Name": "Storeria dekayi: (Holbrook, 1839)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ef1b04bcc45e3fb5680a5d668a0e0946",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; Superior/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Storeria+dekayi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6017,6 +6073,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Storeria dekayi",
         "RecNum": "58",
         "Phylum": "Chordata",
@@ -6052,23 +6123,8 @@
         "COL_Accepted_Name": "Storeria dekayi: (Holbrook, 1839)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/ef1b04bcc45e3fb5680a5d668a0e0946",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; Superior/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Storeria+dekayi&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6079,6 +6135,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis butleri",
         "RecNum": "59",
         "Phylum": "Chordata",
@@ -6105,21 +6174,8 @@
         "COL_Accepted_Name": "Thamnophis butleri: (Cope, 1889)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/8077fe976b83ee8025d2a1a35b290b8a",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+butleri&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6130,6 +6186,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis butleri",
         "RecNum": "59",
         "Phylum": "Chordata",
@@ -6156,21 +6225,8 @@
         "COL_Accepted_Name": "Thamnophis butleri: (Cope, 1889)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/8077fe976b83ee8025d2a1a35b290b8a",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+butleri&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6181,6 +6237,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis proximus proximus",
         "RecNum": "60",
         "Phylum": "Chordata",
@@ -6213,16 +6278,8 @@
         "COL_Accepted_Name": "Thamnophis proximus proximus: (Say, 1823)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/01b613ea36fce901b299deb066375386",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+proximus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6233,6 +6290,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis proximus proximus",
         "RecNum": "60",
         "Phylum": "Chordata",
@@ -6265,16 +6331,8 @@
         "COL_Accepted_Name": "Thamnophis proximus proximus: (Say, 1823)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/01b613ea36fce901b299deb066375386",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Michigan"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+proximus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6285,6 +6343,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis radix",
         "RecNum": "61",
         "Phylum": "Chordata",
@@ -6313,17 +6381,8 @@
         "COL_Accepted_Name": "Thamnophis radix: (Baird & Girard, 1853)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4ca4eced19df149b20210827ba054f5f",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Michigan: Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+radix&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6334,6 +6393,16 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis radix",
         "RecNum": "61",
         "Phylum": "Chordata",
@@ -6362,17 +6431,8 @@
         "COL_Accepted_Name": "Thamnophis radix: (Baird & Girard, 1853)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4ca4eced19df149b20210827ba054f5f",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Michigan: Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+radix&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6383,6 +6443,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis sauritus septentrionalis",
         "RecNum": "62",
         "Phylum": "Chordata",
@@ -6406,22 +6480,8 @@
         "COL_Accepted_Name": "Thamnophis sauritus septentrionalis: Rossman, 1963",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/3b2ec1cbe3dec43f20cab4a9d57a0415",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+sauritus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6432,6 +6492,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis sauritus septentrionalis",
         "RecNum": "62",
         "Phylum": "Chordata",
@@ -6455,22 +6529,8 @@
         "COL_Accepted_Name": "Thamnophis sauritus septentrionalis: Rossman, 1963",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/3b2ec1cbe3dec43f20cab4a9d57a0415",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+sauritus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6481,6 +6541,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis sirtalis",
         "RecNum": "63",
         "Phylum": "Chordata",
@@ -6517,23 +6592,8 @@
         "COL_Accepted_Name": "Thamnophis sirtalis: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7ae3ba7437eacc4c32399dc34e619f86",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+sirtalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6544,6 +6604,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Thamnophis sirtalis",
         "RecNum": "63",
         "Phylum": "Chordata",
@@ -6580,23 +6655,8 @@
         "COL_Accepted_Name": "Thamnophis sirtalis: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/7ae3ba7437eacc4c32399dc34e619f86",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Thamnophis+sirtalis&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6607,6 +6667,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Sistrurus catenatus catenatus",
         "RecNum": "64",
         "Phylum": "Chordata",
@@ -6636,22 +6710,8 @@
         "COL_Accepted_Name": "Sistrurus catenatus catenatus: (Rafinesque, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b3522fc372bddccb67c899e512680645",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Sistrurus catenatus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6662,6 +6722,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Sistrurus catenatus catenatus",
         "RecNum": "64",
         "Phylum": "Chordata",
@@ -6691,22 +6765,8 @@
         "COL_Accepted_Name": "Sistrurus catenatus catenatus: (Rafinesque, 1818)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b3522fc372bddccb67c899e512680645",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Sistrurus catenatus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6717,6 +6777,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Chelydra serpentina",
         "RecNum": "65",
         "Phylum": "Chordata",
@@ -6755,23 +6830,8 @@
         "COL_Accepted_Name": "Chelydra serpentina: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/be461ad353cdc36aa5c5432f715565c0",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Huron/Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Chelydra+serpentina&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6782,6 +6842,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Chelydra serpentina",
         "RecNum": "65",
         "Phylum": "Chordata",
@@ -6820,23 +6895,8 @@
         "COL_Accepted_Name": "Chelydra serpentina: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/be461ad353cdc36aa5c5432f715565c0",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Erie: Herdendorf 1992; Huron/Ontario/Superior: Hecnar et al. 2002; Michigan/HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Chelydra+serpentina&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6847,6 +6907,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Chrysemys picta",
         "RecNum": "66",
         "Phylum": "Chordata",
@@ -6876,23 +6951,8 @@
         "COL_Accepted_Name": "Chrysemys picta: (Schneider, 1783)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4c9b961208ca2bab866503b417732880",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Chrysemys+picta&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6903,6 +6963,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Chrysemys picta",
         "RecNum": "66",
         "Phylum": "Chordata",
@@ -6932,23 +7007,8 @@
         "COL_Accepted_Name": "Chrysemys picta: (Schneider, 1783)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4c9b961208ca2bab866503b417732880",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Chrysemys+picta&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -6959,6 +7019,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Clemmys guttata",
         "RecNum": "67",
         "Phylum": "Chordata",
@@ -6988,22 +7062,8 @@
         "COL_Accepted_Name": "Clemmys guttata: (Schneider, 1792)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9b2071eca1c3e35eadb5731b3f056c55",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Clemmys+guttata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7014,6 +7074,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Clemmys guttata",
         "RecNum": "67",
         "Phylum": "Chordata",
@@ -7043,22 +7117,8 @@
         "COL_Accepted_Name": "Clemmys guttata: (Schneider, 1792)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9b2071eca1c3e35eadb5731b3f056c55",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Clemmys+guttata&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7069,6 +7129,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Emydoidea blandingii",
         "RecNum": "68",
         "Phylum": "Chordata",
@@ -7100,23 +7175,8 @@
         "COL_Accepted_Name": "Emydoidea blandingii: (Holbrook, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/2214d9873202b70a2f280024187ab992",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Emydoidea+blandingii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7127,6 +7187,21 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Emydoidea blandingii",
         "RecNum": "68",
         "Phylum": "Chordata",
@@ -7158,23 +7233,8 @@
         "COL_Accepted_Name": "Emydoidea blandingii: (Holbrook, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/2214d9873202b70a2f280024187ab992",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Emydoidea+blandingii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7185,6 +7245,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Glyptemys insculpta",
         "RecNum": "69",
         "Phylum": "Chordata",
@@ -7217,20 +7290,8 @@
         "COL_Accepted_Name": "Glyptemys insculpta: (Le Conte, 1830)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9e5e9efd10dfb9e61bee4e02be6b1fe3",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Glyptemys+insculpta&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7241,6 +7302,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Glyptemys insculpta",
         "RecNum": "69",
         "Phylum": "Chordata",
@@ -7273,20 +7347,8 @@
         "COL_Accepted_Name": "Glyptemys insculpta: (Le Conte, 1830)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/9e5e9efd10dfb9e61bee4e02be6b1fe3",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Glyptemys+insculpta&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7297,6 +7359,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Glyptemys muhlenbergii",
         "RecNum": "70",
         "Phylum": "Chordata",
@@ -7333,16 +7404,8 @@
         "COL_Accepted_Name": "Glyptemys muhlenbergii: (Schoepff, 1801)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/22a2736854c796cf0edf7a312598d6dd",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Ontario"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Glyptemys+muhlenbergii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7353,6 +7416,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Ontario"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Glyptemys muhlenbergii",
         "RecNum": "70",
         "Phylum": "Chordata",
@@ -7389,16 +7461,8 @@
         "COL_Accepted_Name": "Glyptemys muhlenbergii: (Schoepff, 1801)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/22a2736854c796cf0edf7a312598d6dd",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Ontario"
-        ],
         "Ref_location": "Herdendorf et al. 1981",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Glyptemys+muhlenbergii&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7409,6 +7473,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Graptemys geographica",
         "RecNum": "71",
         "Phylum": "Chordata",
@@ -7440,22 +7518,8 @@
         "COL_Accepted_Name": "Graptemys geographica: (Le Sueur, 1817)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b6beb26317c603492afe96d1729dc2ec",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Graptemys+geographica&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7466,6 +7530,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Graptemys geographica",
         "RecNum": "71",
         "Phylum": "Chordata",
@@ -7497,22 +7575,8 @@
         "COL_Accepted_Name": "Graptemys geographica: (Le Sueur, 1817)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/b6beb26317c603492afe96d1729dc2ec",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Graptemys+geographica&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7523,6 +7587,12 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Graptemys pseudogeographica",
         "RecNum": "72",
         "Phylum": "Chordata",
@@ -7553,10 +7623,6 @@
         "Ref_GL_occurrence": "Harding 1997",
         "Ref_location": "Harding 1997",
         "Notes": "Harding describes as \"marginal\", clearly aquatic but maybe not GL waters",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Graptemys+pseudogeographica&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7567,6 +7633,12 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Graptemys pseudogeographica",
         "RecNum": "72",
         "Phylum": "Chordata",
@@ -7597,10 +7669,6 @@
         "Ref_GL_occurrence": "Harding 1997",
         "Ref_location": "Harding 1997",
         "Notes": "Harding describes as \"marginal\", clearly aquatic but maybe not GL waters",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Graptemys+pseudogeographica&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7611,6 +7679,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Terrapene carolina carolina",
         "RecNum": "73",
         "Phylum": "Chordata",
@@ -7655,20 +7735,8 @@
         "COL_Accepted_Name": "Terrapene carolina carolina: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/da84567747f41f438cc3e0a1db525192",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Terrapene+carolina+carolina&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7679,6 +7747,18 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Terrapene carolina carolina",
         "RecNum": "73",
         "Phylum": "Chordata",
@@ -7723,20 +7803,8 @@
         "COL_Accepted_Name": "Terrapene carolina carolina: (Linnaeus, 1758)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/da84567747f41f438cc3e0a1db525192",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Terrapene+carolina+carolina&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7747,6 +7815,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Trachemys scripta elegans",
         "RecNum": "74",
         "Phylum": "Chordata",
@@ -7780,16 +7857,8 @@
         "COL_Accepted_Name": "Trachemys scripta elegans: (Wied, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/01d2fc560bf8b7b9d2013d78c6951dbd",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Trachemys+scripta+elegans&searchTax=Search+Taxonomy",
         "NatHistory_source": "NAS",
@@ -7800,6 +7869,15 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Michigan"
+        ],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Trachemys scripta elegans",
         "RecNum": "74",
         "Phylum": "Chordata",
@@ -7833,16 +7911,8 @@
         "COL_Accepted_Name": "Trachemys scripta elegans: (Wied, 1838)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/01d2fc560bf8b7b9d2013d78c6951dbd",
         "Ref_GL_occurrence": "Herdendorf et al. 1981",
-        "lakes": [
-            "Erie",
-            "Michigan"
-        ],
         "Ref_location": "Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Trachemys+scripta+elegans&searchTax=Search+Taxonomy",
         "NatHistory_source": "NAS",
@@ -7853,6 +7923,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Kinosternon flavescens",
         "RecNum": "75",
         "Phylum": "Chordata",
@@ -7885,11 +7962,6 @@
         "Ref_GL_occurrence": "Harding 1997",
         "Ref_location": "Harding 1997",
         "Notes": "Harding describes as \"marginal\", clearly aquatic but maybe not GL waters",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Kinosternon+flavescens&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7900,6 +7972,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Kinosternon flavescens",
         "RecNum": "75",
         "Phylum": "Chordata",
@@ -7932,11 +8011,6 @@
         "Ref_GL_occurrence": "Harding 1997",
         "Ref_location": "Harding 1997",
         "Notes": "Harding describes as \"marginal\", clearly aquatic but maybe not GL waters",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Kinosternon+flavescens&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -7947,6 +8021,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Kinosternon subrubrum subrubrum",
         "RecNum": "76",
         "Phylum": "Chordata",
@@ -7985,11 +8066,6 @@
         "Ref_GL_occurrence": "Harding 1997",
         "Ref_location": "Harding 1997",
         "Notes": "Harding describes as \"marginal\", clearly aquatic but maybe not GL waters",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Kinosternon+subrubrum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -8000,6 +8076,13 @@
     },
     {
         "category": "Herps",
+        "lakes": [],
+        "rivers": [],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands",
+            "Aerial/ Terrestrial"
+        ],
         "TaxaName": "Kinosternon subrubrum subrubrum",
         "RecNum": "76",
         "Phylum": "Chordata",
@@ -8038,11 +8121,6 @@
         "Ref_GL_occurrence": "Harding 1997",
         "Ref_location": "Harding 1997",
         "Notes": "Harding describes as \"marginal\", clearly aquatic but maybe not GL waters",
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands",
-            "Aerial/ Terrestrial"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Kinosternon+subrubrum&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -8053,6 +8131,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Sternotherus odoratus",
         "RecNum": "77",
         "Phylum": "Chordata",
@@ -8090,21 +8181,8 @@
         "COL_Accepted_Name": "Sternotherus odoratus: (Latreille, 1802)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4a539d52e9cf3779711b656b3b603755",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Sternotherus+odoratus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -8115,6 +8193,19 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Sternotherus odoratus",
         "RecNum": "77",
         "Phylum": "Chordata",
@@ -8152,21 +8243,8 @@
         "COL_Accepted_Name": "Sternotherus odoratus: (Latreille, 1802)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/4a539d52e9cf3779711b656b3b603755",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": null,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Sternotherus+odoratus&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -8177,6 +8255,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Apalone spinifera spinifera",
         "RecNum": "78",
         "Phylum": "Chordata",
@@ -8216,22 +8308,8 @@
         "COL_Accepted_Name": "Apalone spinifera spinifera: (Le Sueur, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/55a6e35c1fc06f72a2cf7414ed9bc9e8",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997; Superior: Casper 2002",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Apalone+spinifera&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
@@ -8242,6 +8320,20 @@
     },
     {
         "category": "Herps",
+        "lakes": [
+            "Erie",
+            "Huron",
+            "Michigan",
+            "Ontario",
+            "Superior"
+        ],
+        "rivers": [
+            "Huron Erie Corridor"
+        ],
+        "domain": [
+            "Littoral",
+            "Tribs/Wetlands"
+        ],
         "TaxaName": "Apalone spinifera spinifera",
         "RecNum": "78",
         "Phylum": "Chordata",
@@ -8281,22 +8373,8 @@
         "COL_Accepted_Name": "Apalone spinifera spinifera: (Le Sueur, 1827)",
         "COL_URL": "www.catalogueoflife.org/col/details/species/id/55a6e35c1fc06f72a2cf7414ed9bc9e8",
         "Ref_GL_occurrence": "Herdendorf 1992",
-        "lakes": [
-            "Erie",
-            "Huron",
-            "Michigan",
-            "Ontario",
-            "Superior"
-        ],
-        "rivers": [
-            "Huron Erie Corridor"
-        ],
         "Ref_location": "Herdendorf et al. 1981; HEC: Harding 1997; Superior: Casper 2002",
         "Notes": null,
-        "domain": [
-            "Littoral",
-            "Tribs/Wetlands"
-        ],
         "Lakes_Proper": true,
         "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Apalone+spinifera&searchTax=Search+Taxonomy",
         "NatHistory_source": "Nature Serve",
