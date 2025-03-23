@@ -72,7 +72,8 @@ def process_slash_separated_field(data_dict, key, value):
     :return: Updated dictionary
     """
     if value is None:
-        return
+        data_dict[key] = []
+        return 
     newData = value.split("/")
     cleanedData = [x.strip() for x in newData]
     data_dict[key] = cleanedData
@@ -138,6 +139,39 @@ def process_all_files(category):
                 added = True
             if process_indicator_field(new_dict, cleanKey, cleanValue, domain, 'domain'):
                 added = True
+            if cleanKey == "Ref_location":
+                if cleanValue:
+                    try:
+                        # Parse reference locations into a dictionary with lists of references
+                        references_dict = {}
+                        # Split by semicolons for multiple entries
+                        entries = [entry.strip() for entry in cleanValue.split(";")]
+                        
+                        for entry in entries:
+                            parts = entry.split(":")
+                            if len(parts) >= 2:
+                                location = parts[-1].strip()  # Last part is location
+                                reference = parts[0].strip()  # First part is reference
+                                
+                                # Create list if it doesn't exist, append if it does
+                                if location not in references_dict:
+                                    references_dict[location] = []
+                                references_dict[location].append(reference)
+                            else:
+                                # If no colon, use the whole entry as location with empty list
+                                if entry.strip() not in references_dict:
+                                    references_dict[entry.strip()] = []
+                        
+                        new_dict[cleanKey] = references_dict if references_dict else None
+                        added = True
+                    except Exception:
+                        new_dict[cleanKey] = []
+                        added = True
+                else:
+                    new_dict[cleanKey] = []
+                    added = True
+
+
 
             for i in ["lakes", "rivers", "domain"]:
                 try:

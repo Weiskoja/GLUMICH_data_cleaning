@@ -1,0 +1,23 @@
+{
+  "name": "glumich_data_cleaning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkWildlifeAndCitations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weiskoja/GLUMICH_data_cleaning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weiskoja/GLUMICH_data_cleaning/issues"
+  },
+  "homepage": "https://github.com/Weiskoja/GLUMICH_data_cleaning#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
