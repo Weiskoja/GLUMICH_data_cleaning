@@ -114,11 +114,9 @@ def process_all_files(category):
                 break
             if cleanKey == "CommonName":
                 process_slash_separated_field(new_dict, cleanKey, cleanValue)
-                cleaned_data.append(new_dict)
                 added = True
             if cleanKey == "GroupFine":
                 process_slash_separated_field(new_dict, cleanKey, cleanValue)
-                cleaned_data.append(new_dict)
                 added = True
             if cleanKey == "AlternateNames":
                 process_slash_separated_field(new_dict, cleanKey, cleanValue)
@@ -156,6 +154,10 @@ def process_all_files(category):
                         new_dict[cleanKey] = f"images/{category}/{cleanValue}"
                     else:
                         new_dict[cleanKey] = cleanValue
+        
+        # Add the dictionary only once after processing all columns
+        cleaned_data.append(new_dict)
+        
     write_dict_to_json(cleaned_data, f"data-wrangling/done/{category}.json")
 
 def main():

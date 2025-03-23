@@ -1,0 +1,5 @@
+mongoimport --uri="mongodb://root:glumich@localhost:27017/glumich-db?authSource=admin" \
+--verbose \
+--collection wildlife \
+--file="/Users/ethansnyder/NOAA-GreatLakes/GLUMICH_data_cleaning/data-wrangling/done/Fish.json" \
+--jsonArray
