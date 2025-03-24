@@ -39,28 +39,56 @@ const writeJsonFile = (filePath, data) => {
 };
 
 const processFile = (filePath, citationMap) => {
-    const data = readJsonFile(filePath);  // Fixed function name from readJson to readJsonFile
-    if (!data) return;
+  const data = readJsonFile(filePath);  // Assumes this is a function you have
+  if (!data) return;
 
-    data.forEach((item) => {
-        // Check if Ref_location exists and is an object
-        if (item["Ref_location"] && typeof item["Ref_location"] === 'object') {
-            const updatedRefs = {};
-            // Iterate through each location and its reference
-            Object.entries(item["Ref_location"]).forEach(([reference, location]) => {
-                // If reference exists and has a citation ID mapping, use it
-                // Otherwise keep the original reference
-                if (reference && citationMap[reference]) {
-                    updatedRefs[citationMap[reference]] = location;
-                } else {
-                    updatedRefs[reference] = location;
-                }
-            });
-            // Replace the original Ref_location with the updated references
-            item["Ref_location"] = updatedRefs;
+  data.forEach((item) => {
+    if (item["Ref_location"] && typeof item["Ref_location"] === "object") {
+      const newRefArray = [];
+
+      // Convert each key/value in the old Ref_location object
+      // into an array element with { type, refId, locations }.
+      Object.entries(item["Ref_location"]).forEach(([key, rawLocations]) => {
+        // Ensure rawLocations is an array so we can iterate
+        const locationsArray = Array.isArray(rawLocations)
+          ? rawLocations
+          : [rawLocations];
+
+        // Split any slash-delimited strings into multiple locations
+        const processedLocations = [];
+        locationsArray.forEach((loc) => {
+          if (typeof loc === "string" && loc.includes("/")) {
+            // Split on "/", trim whitespace
+            const splitLocs = loc.split("/").map((str) => str.trim());
+            processedLocations.push(...splitLocs);
+          } else {
+            // Push the original item if no slash
+            processedLocations.push(loc);
+          }
+        });
+
+        // Decide if this reference points to the database or is plain text
+        if (citationMap[key]) {
+          newRefArray.push({
+            type: "database",
+            refId: citationMap[key], 
+            locations: processedLocations,
+          });
+        } else {
+          newRefArray.push({
+            type: "plaintext",
+            refId: key,
+            locations: processedLocations,
+          });
         }
-    });
-    return data;
+      });
+
+      // Replace the original object with the new array structure
+      item["Ref_location"] = newRefArray;
+    }
+  });
+
+  return data;
 };
 
 // Wrap the main execution in an async function

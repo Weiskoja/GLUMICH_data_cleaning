@@ -96,10 +96,21 @@ def clean_thing(thing):
         return decoded_thing.strip()
     except:
         return thing
+    
+
+def to_int(value):
+    """
+    Converts a value to an integer if possible.
+    
+    :param value: Value to convert
+    :return: Converted integer or None
+    """
+    try:
+        return int(value)
+    except (ValueError, TypeError):
+        return value
 
 def process_all_files(category):
-    if category == "Algae":
-        pass
     data = read_csv_to_dict(f"data-wrangling/working/{category}.csv")
     cleaned_data = []
     count = 0
@@ -108,8 +119,11 @@ def process_all_files(category):
         new_dict['category'] = category
         count += 1
         for key, value in row.items():
-            cleanValue = clean_thing(value)
+            if key == "RecNum":
+                pass
+            step1Value = clean_thing(value)
             cleanKey = clean_thing(key)
+            cleanValue = to_int(step1Value)
             added = False
             if cleanKey == None:
                 break
@@ -149,6 +163,7 @@ def process_all_files(category):
                         
                         for entry in entries:
                             parts = entry.split(":")
+                            
                             if len(parts) >= 2:
                                 location = parts[-1].strip()  # Last part is location
                                 reference = parts[0].strip()  # First part is reference
@@ -181,8 +196,8 @@ def process_all_files(category):
 
 
             if added == False:
-                if cleanValue == "X" or cleanValue == 1:
-                    new_dict[cleanKey] = True
+                if ((cleanValue == "X" or cleanValue == 1) and cleanKey != "RecNum"):
+                       new_dict[cleanKey] = True
                 else:
                     if cleanKey == "Photo_link" and cleanValue is not None:
                         new_dict[cleanKey] = f"images/{category}/{cleanValue}"
