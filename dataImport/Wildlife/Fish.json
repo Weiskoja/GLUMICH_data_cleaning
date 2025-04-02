@@ -55,7 +55,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Acipenser+fulvescens&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=6",
-    "Photo_link": "images/Fish/images/fish/acipenser_fulvescens.png",
+    "Photo_link": "images/fish/acipenser_fulvescens.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -140,7 +140,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Amia+calva&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=10",
-    "Photo_link": "images/Fish/images/fish/amia_calva.png",
+    "Photo_link": "images/fish/amia_calva.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -239,7 +239,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Anguilla+rostrata&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=310&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/anguilla_rostrata.png",
+    "Photo_link": "images/fish/anguilla_rostrata.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -304,7 +304,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Labidesthes+sicculus&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=318&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/labidesthes_sicculus.png",
+    "Photo_link": "images/fish/labidesthes_sicculus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -364,7 +364,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Alosa+aestivalis&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=488",
-    "Photo_link": "images/Fish/images/fish/alosa_aestivalis.png",
+    "Photo_link": "images/fish/alosa_aestivalis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -421,7 +421,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Alosa+chrysochloris&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=489",
-    "Photo_link": "images/Fish/images/fish/alosa_chrysochloris.png",
+    "Photo_link": "images/fish/alosa_chrysochloris.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -497,7 +497,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Alosa+pseudoharengus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=14",
-    "Photo_link": "images/Fish/images/fish/alosa_pseudoharengus.png",
+    "Photo_link": "images/fish/alosa_pseudoharengus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -563,7 +563,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Alosa+sapidissima&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=15",
-    "Photo_link": "images/Fish/images/fish/alosa_sapidissima.png",
+    "Photo_link": "images/fish/alosa_sapidissima.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -641,7 +641,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Dorosoma+cepedianum&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=492&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/dorosoma_cepedianum.png",
+    "Photo_link": "images/fish/dorosoma_cepedianum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -700,7 +700,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Carpiodes+carpio&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=341",
-    "Photo_link": "images/Fish/images/fish/carpiodes_carpio.png",
+    "Photo_link": "images/fish/carpiodes_carpio.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -762,7 +762,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Carpiodes+cyprinus&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=342",
-    "Photo_link": "images/Fish/images/fish/carpiodes_cyprinus.png",
+    "Photo_link": "images/fish/carpiodes_cyprinus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -842,7 +842,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Catostomus+catostomus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=60",
-    "Photo_link": "images/Fish/images/fish/catostomus_catostomus.png",
+    "Photo_link": "images/fish/catostomus_catostomus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -925,7 +925,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Catostomus+commersonii&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=61",
-    "Photo_link": "images/Fish/images/fish/catostomus_commersonii.png",
+    "Photo_link": "images/fish/catostomus_commersonii.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -983,7 +983,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Erimyzon+oblongus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Nature Serve",
     "NatHistory_link": "http://explorer.natureserve.org/servlet/NatureServe?searchSciOrCommonName=Erimyzon+oblongus",
-    "Photo_link": "images/Fish/images/fish/erimyzon_oblongus.png",
+    "Photo_link": "images/fish/erimyzon_oblongus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1041,7 +1041,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Erimyzon+sucetta&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=62",
-    "Photo_link": "images/Fish/images/fish/erimyzon_sucetta.png",
+    "Photo_link": "images/fish/erimyzon_sucetta.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1098,7 +1098,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hypentelium+nigricans&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=63",
-    "Photo_link": "images/Fish/images/fish/hypentelium_nigricans.png",
+    "Photo_link": "images/fish/hypentelium_nigricans.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1151,7 +1151,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ictiobus+bubalus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=64",
-    "Photo_link": "images/Fish/images/fish/ictiobius_bubalus",
+    "Photo_link": "images/fish/ictiobius_bubalus",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1218,7 +1218,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ictiobus+cyprinellus&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=362&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/ictiobus_cyprinellus.png",
+    "Photo_link": "images/fish/ictiobus_cyprinellus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1272,7 +1272,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ictiobus+niger&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=363&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/ictiobus_niger.png",
+    "Photo_link": "images/fish/ictiobus_niger.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1327,7 +1327,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Minytrema+melanops&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=67",
-    "Photo_link": "images/Fish/images/fish/minytrema_melanops.png",
+    "Photo_link": "images/fish/minytrema_melanops.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1389,7 +1389,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Moxostoma+anisurum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=68",
-    "Photo_link": "images/Fish/images/fish/moxostoma_anisurum.png",
+    "Photo_link": "images/fish/moxostoma_anisurum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1453,7 +1453,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Moxostoma+carinatum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=69",
-    "Photo_link": "images/Fish/images/fish/moxostoma_carinatum.png",
+    "Photo_link": "images/fish/moxostoma_carinatum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1521,7 +1521,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Moxostoma+duquesnii&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=70",
-    "Photo_link": "images/Fish/images/fish/moxostoma_duquesnii.png",
+    "Photo_link": "images/fish/moxostoma_duquesnii.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1579,7 +1579,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Moxostoma+erythrurum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=71",
-    "Photo_link": "images/Fish/images/fish/moxostoma_erythrurum.png",
+    "Photo_link": "images/fish/moxostoma_erythrurum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1647,7 +1647,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Moxostoma+macrolepidotum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=72",
-    "Photo_link": "images/Fish/images/fish/moxostoma_macrolepidotum.png",
+    "Photo_link": "images/fish/moxostoma_macrolepidotum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1705,7 +1705,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Moxostoma+valenciennesi&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=73",
-    "Photo_link": "images/Fish/images/fish/moxostoma_valenciennesi.png",
+    "Photo_link": "images/fish/moxostoma_valenciennesi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1786,7 +1786,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Misgurnus+anguillicaudatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=498",
-    "Photo_link": "images/Fish/images/fish/misgurnus_anguillicaudatus.png",
+    "Photo_link": "images/fish/misgurnus_anguillicaudatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1843,7 +1843,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Campostoma+anomalum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=17",
-    "Photo_link": "images/Fish/images/fish/campostoma_anomalum.png",
+    "Photo_link": "images/fish/campostoma_anomalum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1898,7 +1898,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Campostoma+oligolepis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Nature Serve",
     "NatHistory_link": "http://explorer.natureserve.org/servlet/NatureServe?searchSciOrCommonName=Campostoma+oligolepis",
-    "Photo_link": "images/Fish/images/fish/campostoma_oligolepis.png",
+    "Photo_link": "images/fish/campostoma_oligolepis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -1999,7 +1999,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Carassius+auratus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=18",
-    "Photo_link": "images/Fish/images/fish/carassius_auratus.png",
+    "Photo_link": "images/fish/carassius_auratus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2242,7 +2242,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Clinostomus+elongatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=21",
-    "Photo_link": "images/Fish/images/fish/clinostomus_elongatus.png",
+    "Photo_link": "images/fish/clinostomus_elongatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2316,7 +2316,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Couesius+plumbeus&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=513",
-    "Photo_link": "images/Fish/images/fish/couesius_plumbeus.png",
+    "Photo_link": "images/fish/couesius_plumbeus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2387,7 +2387,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ctenopharyngodon+idella&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "[https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=514, https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=2947, https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=2948]",
-    "Photo_link": "images/Fish/images/fish/ctenopharyngodon_idella.png",
+    "Photo_link": "images/fish/ctenopharyngodon_idella.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2509,7 +2509,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cyprinella+lutrensis&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=518",
-    "Photo_link": "images/Fish/images/fish/cyprinella_lutrensis.png",
+    "Photo_link": "images/fish/cyprinella_lutrensis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2571,7 +2571,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cyprinella+spiloptera&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=24",
-    "Photo_link": "images/Fish/images/fish/cyprinella_spiloptera.png",
+    "Photo_link": "images/fish/cyprinella_spiloptera.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2746,7 +2746,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cyprinus+carpio&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=25",
-    "Photo_link": "images/Fish/images/fish/cyprinus_carpio.png",
+    "Photo_link": "images/fish/cyprinus_carpio.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2799,7 +2799,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Exoglossum+laurae&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/exoglossum_laurae.png",
+    "Photo_link": "images/fish/exoglossum_laurae.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2854,7 +2854,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Exoglossum+maxillingua&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=27",
-    "Photo_link": "images/Fish/images/fish/exoglossum_maxillingua.png",
+    "Photo_link": "images/fish/exoglossum_maxillingua.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -2907,7 +2907,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hybognathus+hankinsoni&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=28",
-    "Photo_link": "images/Fish/images/fish/hybognathus_hankinsoni.png",
+    "Photo_link": "images/fish/hybognathus_hankinsoni.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3080,7 +3080,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Luxilus+chrysocephalus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=30",
-    "Photo_link": "images/Fish/images/fish/luxilus_chrysocephalus.png",
+    "Photo_link": "images/fish/luxilus_chrysocephalus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3153,7 +3153,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Luxilus+cornutus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=31",
-    "Photo_link": "images/Fish/images/fish/luxilus_cornutus.png",
+    "Photo_link": "images/fish/luxilus_cornutus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3222,7 +3222,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lythrurus+umbratilis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=32",
-    "Photo_link": "images/Fish/images/fish/lythrurus_umbratilis.png",
+    "Photo_link": "images/fish/lythrurus_umbratilis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3278,7 +3278,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Macrhybopsis+storeriana&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=33",
-    "Photo_link": "images/Fish/images/fish/macrhybopsis_storeriana.png",
+    "Photo_link": "images/fish/macrhybopsis_storeriana.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3345,7 +3345,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Margariscus+margarita&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=513",
-    "Photo_link": "images/Fish/images/fish/margariscus_margarita.png",
+    "Photo_link": "images/fish/margariscus_margarita.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3406,7 +3406,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Nocomis+biguttatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=35",
-    "Photo_link": "images/Fish/images/fish/nocomis_biguttatus.png",
+    "Photo_link": "images/fish/nocomis_biguttatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3463,7 +3463,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Nocomis+micropogon&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=36",
-    "Photo_link": "images/Fish/images/fish/nocomis_micropogon.png",
+    "Photo_link": "images/fish/nocomis_micropogon.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3536,7 +3536,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notemigonus+crysoleucas&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=579",
-    "Photo_link": "images/Fish/images/fish/notemigonus_crysoleucas.png",
+    "Photo_link": "images/fish/notemigonus_crysoleucas.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3593,7 +3593,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+anogenus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=38",
-    "Photo_link": "images/Fish/images/fish/notropis_anogenus.png",
+    "Photo_link": "images/fish/notropis_anogenus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3668,7 +3668,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+atherinoides&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=582",
-    "Photo_link": "images/Fish/images/fish/notropis_atherinoides.png",
+    "Photo_link": "images/fish/notropis_atherinoides.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3721,7 +3721,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+bifrenatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=40",
-    "Photo_link": "images/Fish/images/fish/notropis_bifrenatus.png",
+    "Photo_link": "images/fish/notropis_bifrenatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3778,7 +3778,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+blennius&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=41",
-    "Photo_link": "images/Fish/images/fish/notropis_blennius.png",
+    "Photo_link": "images/fish/notropis_blennius.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3830,7 +3830,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+buccata&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/notropis_buccatus.png",
+    "Photo_link": "images/fish/notropis_buccatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3891,7 +3891,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+buchanani&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=590",
-    "Photo_link": "images/Fish/images/fish/notropis_buchanani.png",
+    "Photo_link": "images/fish/notropis_buchanani.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -3943,7 +3943,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+chalybaeus&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/notropis_chalybaeus.png",
+    "Photo_link": "images/fish/notropis_chalybaeus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4020,7 +4020,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+dorsalis&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=593",
-    "Photo_link": "images/Fish/images/fish/notropis_dorsalis.png",
+    "Photo_link": "images/fish/notropis_dorsalis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4078,7 +4078,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+heterodon&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=43",
-    "Photo_link": "images/Fish/images/fish/notropis_heterodon.png",
+    "Photo_link": "images/fish/notropis_heterodon.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4138,7 +4138,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+heterolepis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=44",
-    "Photo_link": "images/Fish/images/fish/notropis_heterolepis.png",
+    "Photo_link": "images/fish/notropis_heterolepis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4209,7 +4209,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+hudsonius&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=45",
-    "Photo_link": "images/Fish/images/fish/notropis_hudsonius.png",
+    "Photo_link": "images/fish/notropis_hudsonius.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4264,7 +4264,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+photogenis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=46",
-    "Photo_link": "images/Fish/images/fish/notropis_photogenis.png",
+    "Photo_link": "images/fish/notropis_photogenis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4315,7 +4315,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+procne&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/notropis_procne.png",
+    "Photo_link": "images/fish/notropis_procne.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4385,7 +4385,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+rubellus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=47",
-    "Photo_link": "images/Fish/images/fish/notropis_rubellus.png",
+    "Photo_link": "images/fish/notropis_rubellus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4445,7 +4445,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+stramineus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=48",
-    "Photo_link": "images/Fish/images/fish/notropis_stramineus.png",
+    "Photo_link": "images/fish/notropis_stramineus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4504,7 +4504,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Notropis+volucellus&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=614",
-    "Photo_link": "images/Fish/images/fish/notropis_volucellus.png",
+    "Photo_link": "images/fish/notropis_volucellus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4572,7 +4572,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Opsopoeodus+emiliae&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=50",
-    "Photo_link": "images/Fish/images/fish/opsopoeodus_emiliae.png",
+    "Photo_link": "images/fish/opsopoeodus_emiliae.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4625,7 +4625,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Phenacobius+mirabilis&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=617&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/phenacobius_mirabilis.png",
+    "Photo_link": "images/fish/phenacobius_mirabilis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4688,7 +4688,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pimephales+notatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=51",
-    "Photo_link": "images/Fish/images/fish/pimephales_notatus.png",
+    "Photo_link": "images/fish/pimephales_notatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4761,7 +4761,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pimephales+promelas&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=52",
-    "Photo_link": "images/Fish/images/fish/pimephales_promelas.png",
+    "Photo_link": "images/fish/pimephales_promelas.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4817,7 +4817,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pimephales+vigilax&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=623&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/pimephales_vigilax.png",
+    "Photo_link": "images/fish/pimephales_vigilax.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4878,7 +4878,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rhinichthys+atratulus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=53",
-    "Photo_link": "images/Fish/images/fish/rhinichthys_atratulus.png",
+    "Photo_link": "images/fish/rhinichthys_atratulus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4939,7 +4939,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rhinichthys+cataractae&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=54",
-    "Photo_link": "images/Fish/images/fish/rhinichthys_cataractae.png",
+    "Photo_link": "images/fish/rhinichthys_cataractae.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -4997,7 +4997,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Rhinichthys+obtusus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=55",
-    "Photo_link": "images/Fish/images/fish/rhinichthys_obtusus.png",
+    "Photo_link": "images/fish/rhinichthys_obtusus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5078,7 +5078,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Scardinius+erythrophthalmus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=56",
-    "Photo_link": "images/Fish/images/fish/scardinius_erythrophthalmus.png",
+    "Photo_link": "images/fish/scardinius_erythrophthalmus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5147,7 +5147,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Semotilus+atromaculatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=57",
-    "Photo_link": "images/Fish/images/fish/semotilus_atromaculatus.png",
+    "Photo_link": "images/fish/semotilus_atromaculatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5214,7 +5214,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Semotilus+corporalis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=58",
-    "Photo_link": "images/Fish/images/fish/semotilus_corporalis.png",
+    "Photo_link": "images/fish/semotilus_corporalis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5279,7 +5279,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Fundulus+diaphanus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=116",
-    "Photo_link": "images/Fish/images/fish/fundulus_diaphanus.png",
+    "Photo_link": "images/fish/fundulus_diaphanus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5332,7 +5332,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Fundulus+dispar&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/fundulus_dispar.png",
+    "Photo_link": "images/fish/fundulus_dispar.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5395,7 +5395,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Fundulus+notatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=117",
-    "Photo_link": "images/Fish/images/fish/fundulus_notatus.png",
+    "Photo_link": "images/fish/fundulus_notatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5464,7 +5464,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Gambusia+affinis&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=846Fishes",
-    "Photo_link": "images/Fish/images/fish/gambusia_affinis.png",
+    "Photo_link": "images/fish/gambusia_affinis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5535,7 +5535,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Esox+americanus&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/esox_americanus.png",
+    "Photo_link": "images/fish/esox_americanus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5611,7 +5611,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Esox+lucius&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=108",
-    "Photo_link": "images/Fish/images/fish/esox_lucius.png",
+    "Photo_link": "images/fish/esox_lucius.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5685,7 +5685,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Esox+masquinongy&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=679&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/esox_masquinongy.png",
+    "Photo_link": "images/fish/esox_masquinongy.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5738,7 +5738,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Esox+niger&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=111",
-    "Photo_link": "images/Fish/images/fish/esox_niger.png",
+    "Photo_link": "images/fish/esox_niger.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5798,7 +5798,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Umbra+limi&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=112",
-    "Photo_link": "images/Fish/images/fish/umbra_limi.png",
+    "Photo_link": "images/fish/umbra_limi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5858,7 +5858,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lota+lota&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=114",
-    "Photo_link": "images/Fish/images/fish/lota_lota.png",
+    "Photo_link": "images/fish/lota_lota.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5924,7 +5924,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Apeltes+quadracus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=118",
-    "Photo_link": "images/Fish/images/fish/apeltes_quadracus.png",
+    "Photo_link": "images/fish/apeltes_quadracus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -5993,7 +5993,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Culaea+inconstans&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=119",
-    "Photo_link": "images/Fish/images/fish/culaea_inconstans.png",
+    "Photo_link": "images/fish/culaea_inconstans.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6132,7 +6132,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Gasterosteus+aculeatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=702&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/gasterosteus_aculeatus.png",
+    "Photo_link": "images/fish/gasterosteus_aculeatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6206,7 +6206,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pungitius+pungitius&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=121",
-    "Photo_link": "images/Fish/images/fish/pungitius_pungitius.png",
+    "Photo_link": "images/fish/pungitius_pungitius.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6279,7 +6279,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Osmerus+mordax&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=84",
-    "Photo_link": "images/Fish/images/fish/osmerus_mordax.png",
+    "Photo_link": "images/fish/osmerus_mordax.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6342,7 +6342,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Hiodon+tergisus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=12",
-    "Photo_link": "images/Fish/images/fish/hiodon_tergisus.png",
+    "Photo_link": "images/fish/hiodon_tergisus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6406,7 +6406,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ambloplites+rupestris&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=129",
-    "Photo_link": "images/Fish/images/fish/ambloplites_rupestris.png",
+    "Photo_link": "images/fish/ambloplites_rupestris.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6465,7 +6465,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Enneacanthus+gloriosus&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=377",
-    "Photo_link": "images/Fish/images/fish/enneacanthus_gloriosus.png",
+    "Photo_link": "images/fish/enneacanthus_gloriosus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6544,7 +6544,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepomis+cyanellus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=130",
-    "Photo_link": "images/Fish/images/fish/lepomis_cyanellus.png",
+    "Photo_link": "images/fish/lepomis_cyanellus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6618,7 +6618,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepomis+gibbosus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=131",
-    "Photo_link": "images/Fish/images/fish/lepomis_gibbosus.png",
+    "Photo_link": "images/fish/lepomis_gibbosus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6690,7 +6690,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepomis+gulosus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=132",
-    "Photo_link": "images/Fish/images/fish/lepomis_gulosus.png",
+    "Photo_link": "images/fish/lepomis_gulosus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6745,7 +6745,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepomis+humilis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=133",
-    "Photo_link": "images/Fish/images/fish/lepomis_humilis.png",
+    "Photo_link": "images/fish/lepomis_humilis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6808,7 +6808,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepomis+macrochirus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=134",
-    "Photo_link": "images/Fish/images/fish/lepomis_macrochirus.png",
+    "Photo_link": "images/fish/lepomis_macrochirus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6868,7 +6868,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepomis+megalotis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=135",
-    "Photo_link": "images/Fish/images/fish/lepomis_megalotis.png",
+    "Photo_link": "images/fish/lepomis_megalotis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -6924,7 +6924,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepomis+microlophus&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=390",
-    "Photo_link": "images/Fish/images/fish/lepomis_microlophus.png",
+    "Photo_link": "images/fish/lepomis_microlophus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7005,7 +7005,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Micropterus+dolomieu&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=136",
-    "Photo_link": "images/Fish/images/fish/micropterus_dolomieu.png",
+    "Photo_link": "images/fish/micropterus_dolomieu.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7079,7 +7079,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Micropterus+salmoides&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=401&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/micropterus_salmoides.png",
+    "Photo_link": "images/fish/micropterus_salmoides.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7138,7 +7138,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pomoxis+annularis&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=408&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/pomoxis_annularis.png",
+    "Photo_link": "images/fish/pomoxis_annularis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7212,7 +7212,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pomoxis+nigromaculatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=139",
-    "Photo_link": "images/Fish/images/fish/pomoxis_nigromaculatus.png",
+    "Photo_link": "images/fish/pomoxis_nigromaculatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7288,7 +7288,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Neogobius+melanostomus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=158",
-    "Photo_link": "images/Fish/images/fish/neogobius_melanostomus.png",
+    "Photo_link": "images/fish/neogobius_melanostomus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7361,7 +7361,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Proterorhinus+semilunaris&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=159",
-    "Photo_link": "images/Fish/images/fish/proterorhinus_semilunaris.png",
+    "Photo_link": "images/fish/proterorhinus_semilunaris.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7426,7 +7426,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Morone+americana&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=127",
-    "Photo_link": "images/Fish/images/fish/morone_americana.png",
+    "Photo_link": "images/fish/morone_americana.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7491,7 +7491,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Morone+chrysops&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=128",
-    "Photo_link": "images/Fish/images/fish/morone_chrysops.png",
+    "Photo_link": "images/fish/morone_chrysops.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7545,7 +7545,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Morone+mississippiensis&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=785",
-    "Photo_link": "images/Fish/images/fish/morone_mississippiensis.png",
+    "Photo_link": "images/fish/morone_mississippiensis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7596,7 +7596,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ammocrypta+clara&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=806",
-    "Photo_link": "images/Fish/images/fish/ammocrypta_clara.png",
+    "Photo_link": "images/fish/ammocrypta_clara.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7660,7 +7660,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ammocrypta+pellucida&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=140",
-    "Photo_link": "images/Fish/images/fish/ammocrypta_pellucida.png",
+    "Photo_link": "images/fish/ammocrypta_pellucida.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7725,7 +7725,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+blennioides&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=141",
-    "Photo_link": "images/Fish/images/fish/etheostoma_blennioides.png",
+    "Photo_link": "images/fish/etheostoma_blennioides.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7780,7 +7780,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+caeruleum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=142",
-    "Photo_link": "images/Fish/images/fish/etheostoma_caeruleum.png",
+    "Photo_link": "images/fish/etheostoma_caeruleum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7840,7 +7840,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+exile&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=143",
-    "Photo_link": "images/Fish/images/fish/etheostoma_exile.png",
+    "Photo_link": "images/fish/etheostoma_exile.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7900,7 +7900,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+flabellare&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=144",
-    "Photo_link": "images/Fish/images/fish/etheostoma_flabellare.png",
+    "Photo_link": "images/fish/etheostoma_flabellare.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -7964,7 +7964,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+microperca&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=145",
-    "Photo_link": "images/Fish/images/fish/etheostoma_microperca.png",
+    "Photo_link": "images/fish/etheostoma_microperca.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8025,7 +8025,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+nigrum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=146",
-    "Photo_link": "images/Fish/images/fish/etheostoma_nigrum.png",
+    "Photo_link": "images/fish/etheostoma_nigrum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8075,7 +8075,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+olmstedi&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=147",
-    "Photo_link": "images/Fish/images/fish/etheostoma_olmstedi.png",
+    "Photo_link": "images/fish/etheostoma_olmstedi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8127,7 +8127,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+spectabile&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/etheostoma_spectabile.png",
+    "Photo_link": "images/fish/etheostoma_spectabile.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8179,7 +8179,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Etheostoma+zonale&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/etheostoma_zonale.png",
+    "Photo_link": "images/fish/etheostoma_zonale.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8246,7 +8246,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Gymnocephalus+cernuus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=148",
-    "Photo_link": "images/Fish/images/fish/gymnocephalus_cernuus.png",
+    "Photo_link": "images/fish/gymnocephalus_cernuus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8313,7 +8313,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Perca+flavescens&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=149",
-    "Photo_link": "images/Fish/images/fish/perca_flavescens.png",
+    "Photo_link": "images/fish/perca_flavescens.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8374,7 +8374,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Percina+caprodes&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=150",
-    "Photo_link": "images/Fish/images/fish/percina_caprodes.png",
+    "Photo_link": "images/fish/percina_caprodes.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8430,7 +8430,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Percina+copelandi&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=151",
-    "Photo_link": "images/Fish/images/fish/percina_copelandi.png",
+    "Photo_link": "images/fish/percina_copelandi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8486,7 +8486,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Percina+maculata&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=152",
-    "Photo_link": "images/Fish/images/fish/percina_maculata.png",
+    "Photo_link": "images/fish/percina_maculata.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8537,7 +8537,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Percina+phoxocephala&searchTax=Search+Taxonomy",
     "NatHistory_source": null,
     "NatHistory_link": null,
-    "Photo_link": "images/Fish/images/fish/percina_phoxocephala.png",
+    "Photo_link": "images/fish/percina_phoxocephala.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8592,7 +8592,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Percina+shumardi&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=826&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/percina_shumardi.png",
+    "Photo_link": "images/fish/percina_shumardi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8801,7 +8801,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Aplodinotus+grunniens&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=946&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/aplodinotus_grunniens.png",
+    "Photo_link": "images/fish/aplodinotus_grunniens.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8862,7 +8862,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Aphredoderus+sayanus&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=313",
-    "Photo_link": "images/Fish/images/fish/aphredoderus_sayanus.png",
+    "Photo_link": "images/fish/aphredoderus_sayanus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -8928,7 +8928,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Percopsis+omiscomaycus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=113",
-    "Photo_link": "images/Fish/images/fish/percopsis_omiscomaycus.png",
+    "Photo_link": "images/fish/percopsis_omiscomaycus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9011,7 +9011,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Coregonus+artedi&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=85",
-    "Photo_link": "images/Fish/images/fish/coregonus_artedi.png",
+    "Photo_link": "images/fish/coregonus_artedi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9088,7 +9088,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Coregonus+clupeaformis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=86",
-    "Photo_link": "images/Fish/images/fish/coregonus_clupeaformis.png",
+    "Photo_link": "images/fish/coregonus_clupeaformis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9146,7 +9146,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Coregonus+hoyi&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=87",
-    "Photo_link": "images/Fish/images/fish/coregonus_hoyi.png",
+    "Photo_link": "images/fish/coregonus_hoyi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9205,7 +9205,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Coregonus+kiyi&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=89",
-    "Photo_link": "images/Fish/images/fish/coregonus_kiyi.png",
+    "Photo_link": "images/fish/coregonus_kiyi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9263,7 +9263,7 @@
     "BOLD_link": "BOLD has genus, but not this species (checked Aug 2022)",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=92",
-    "Photo_link": "images/Fish/images/fish/coregonus_reighardi.png",
+    "Photo_link": "images/fish/coregonus_reighardi.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9323,7 +9323,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Coregonus+zenithicus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=93",
-    "Photo_link": "images/Fish/images/fish/coregonus_zenithicus.png",
+    "Photo_link": "images/fish/coregonus_zenithicus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9389,7 +9389,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Oncorhynchus+gorbuscha&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=94",
-    "Photo_link": "images/Fish/images/fish/oncorhynchus_gorbuscha.png",
+    "Photo_link": "images/fish/oncorhynchus_gorbuscha.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9467,7 +9467,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Oncorhynchus+kisutch&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=95",
-    "Photo_link": "images/Fish/images/fish/oncorhynchus_kisutch.png",
+    "Photo_link": "images/fish/oncorhynchus_kisutch.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9580,7 +9580,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Oncorhynchus+mykiss&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=96",
-    "Photo_link": "images/Fish/images/fish/oncorhynchus_mykiss.png",
+    "Photo_link": "images/fish/oncorhynchus_mykiss.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9658,7 +9658,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Oncorhynchus+nerka&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=915",
-    "Photo_link": "images/Fish/images/fish/oncorhynchus_nerka.png",
+    "Photo_link": "images/fish/oncorhynchus_nerka.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9742,7 +9742,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Oncorhynchus+tshawytscha&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=97",
-    "Photo_link": "images/Fish/images/fish/oncorhynchus_tshawytscha.png",
+    "Photo_link": "images/fish/oncorhynchus_tshawytscha.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9800,7 +9800,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Prosopium+coulterii&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=98",
-    "Photo_link": "images/Fish/images/fish/prosopium_coulterii.png",
+    "Photo_link": "images/fish/prosopium_coulterii.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9871,7 +9871,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Prosopium+cylindraceum&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=99",
-    "Photo_link": "images/Fish/images/fish/prosopium_cylindraceum.png",
+    "Photo_link": "images/fish/prosopium_cylindraceum.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -9981,7 +9981,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Salmo+salar&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=926&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/salmo_salar.png",
+    "Photo_link": "images/fish/salmo_salar.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10123,7 +10123,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Salmo+trutta&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=101",
-    "Photo_link": "images/Fish/images/fish/salmo_trutta.png",
+    "Photo_link": "images/fish/salmo_trutta.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10219,7 +10219,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Salvelinus+fontinalis&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=939&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/salvelinus_fontinalis.png",
+    "Photo_link": "images/fish/salvelinus_fontinalis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10299,7 +10299,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Salvelinus+namaycush&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=106",
-    "Photo_link": "images/Fish/images/fish/salvelinus_namaycush.png",
+    "Photo_link": "images/fish/salvelinus_namaycush.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10380,7 +10380,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cottus+bairdii&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=122",
-    "Photo_link": "images/Fish/images/fish/cottus_bairdii.png",
+    "Photo_link": "images/fish/cottus_bairdii.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10459,7 +10459,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cottus+cognatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=123",
-    "Photo_link": "images/Fish/images/fish/cottus_cognatus.png",
+    "Photo_link": "images/fish/cottus_cognatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10519,7 +10519,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Cottus+ricei&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=124",
-    "Photo_link": "images/Fish/images/fish/cottus_ricei.png",
+    "Photo_link": "images/fish/cottus_ricei.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10578,7 +10578,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Myoxocephalus+thompsonii&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=126",
-    "Photo_link": "images/Fish/images/fish/myoxocephalus_thompsonii.png",
+    "Photo_link": "images/fish/myoxocephalus_thompsonii.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10641,7 +10641,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepisosteus+oculatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=8",
-    "Photo_link": "images/Fish/images/fish/lepisosteus_oculatus.png",
+    "Photo_link": "images/fish/lepisosteus_oculatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10738,7 +10738,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepisosteus+osseus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=9",
-    "Photo_link": "images/Fish/images/fish/lepisosteus_osseus.png",
+    "Photo_link": "images/fish/lepisosteus_osseus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10793,7 +10793,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Lepisosteus+platostomus&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=757",
-    "Photo_link": "images/Fish/images/fish/lepisosteus_platostomus.png",
+    "Photo_link": "images/fish/lepisosteus_platostomus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10850,7 +10850,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ameiurus+catus&searchTax=Search+Taxonomy",
     "NatHistory_source": "NAS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=729",
-    "Photo_link": "images/Fish/images/fish/ameiurus_catus.png",
+    "Photo_link": "images/fish/ameiurus_catus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10924,7 +10924,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ameiurus+melas&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=74",
-    "Photo_link": "images/Fish/images/fish/ameiurus_melas.png",
+    "Photo_link": "images/fish/ameiurus_melas.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -10985,7 +10985,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ameiurus+natalis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=75",
-    "Photo_link": "images/Fish/images/fish/ameiurus_natalis.png",
+    "Photo_link": "images/fish/ameiurus_natalis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11073,7 +11073,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ameiurus+nebulosus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=76",
-    "Photo_link": "images/Fish/images/fish/ameiurus_nebulosus.png",
+    "Photo_link": "images/fish/ameiurus_nebulosus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11133,7 +11133,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ictalurus+punctatus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=77",
-    "Photo_link": "images/Fish/images/fish/ictalurus_punctatus.png",
+    "Photo_link": "images/fish/ictalurus_punctatus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11190,7 +11190,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Noturus+flavus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=78",
-    "Photo_link": "images/Fish/images/fish/noturus_flavus.png",
+    "Photo_link": "images/fish/noturus_flavus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11251,7 +11251,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Noturus+gyrinus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=79",
-    "Photo_link": "images/Fish/images/fish/noturus_gyrinus.png",
+    "Photo_link": "images/fish/noturus_gyrinus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11306,7 +11306,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Noturus+insignis&searchTax=Search+Taxonomy",
     "NatHistory_source": "GLANSIS",
     "NatHistory_link": "https://nas.er.usgs.gov/queries/greatLakes/FactSheet.aspx?SpeciesID=748&Potential=N&Type=0&HUCNumber=DGreatLakes",
-    "Photo_link": "images/Fish/images/fish/noturus_insignis.png",
+    "Photo_link": "images/fish/noturus_insignis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11384,7 +11384,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Noturus+miurus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=81",
-    "Photo_link": "images/Fish/images/fish/noturus_miurus.png",
+    "Photo_link": "images/fish/noturus_miurus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11438,7 +11438,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Noturus+stigmosus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=82",
-    "Photo_link": "images/Fish/images/fish/noturus_stigmosus.png",
+    "Photo_link": "images/fish/noturus_stigmosus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11513,7 +11513,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Pylodictis+olivaris&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=83",
-    "Photo_link": "images/Fish/images/fish/pylodictis_olivaris.png",
+    "Photo_link": "images/fish/pylodictis_olivaris.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11579,7 +11579,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ichthyomyzon+castaneus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=1",
-    "Photo_link": "images/Fish/images/fish/ichthyomyzon_castaneus.png",
+    "Photo_link": "images/fish/ichthyomyzon_castaneus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11642,7 +11642,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ichthyomyzon+fossor&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=2",
-    "Photo_link": "images/Fish/images/fish/ichthyomyzon_fossor.png",
+    "Photo_link": "images/fish/ichthyomyzon_fossor.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11702,7 +11702,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Ichthyomyzon+unicuspis&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=3",
-    "Photo_link": "images/Fish/images/fish/ichthyomyzon_unicuspis.png",
+    "Photo_link": "images/fish/ichthyomyzon_unicuspis.png",
     "nasID": null,
     "Other_Genetic_Info": null
   },
@@ -11859,7 +11859,7 @@
     "BOLD_link": "http://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxon=Petromyzon+marinus&searchTax=Search+Taxonomy",
     "NatHistory_source": "Ontario Fish",
     "NatHistory_link": "http://www.ontariofishes.ca/fish_detail.php?FID=5",
-    "Photo_link": "images/Fish/images/fish/petromyzon_marinus.png",
+    "Photo_link": "images/fish/petromyzon_marinus.png",
     "nasID": null,
     "Other_Genetic_Info": null
   }
